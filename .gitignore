@@ -1,0 +1,4 @@
+.upstream/
+.qa/
+release/
+__pycache__/

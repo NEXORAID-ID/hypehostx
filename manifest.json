@@ -1,0 +1,255 @@
+{
+  "revision": "52f9113c9841efdd",
+  "assets": [
+    {
+      "path": "404.html",
+      "sha256": "13a2fc910bd24b258846aa2ebcc46b2cb666846942d22f20e69a52fa8542d502",
+      "size": 2470
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "7bea99a9ac8df80f9fac3b0c91c406d6df043b25ec9d12f23fe2c9cfe0c83339",
+      "size": 2755
+    },
+    {
+      "path": "assets/app.js",
+      "sha256": "4d9fd8d053177a71ca54791c123c6eceef9fa0f0d26da8336ab10b7dd3e061e7",
+      "size": 10862
+    },
+    {
+      "path": "assets/brand.svg",
+      "sha256": "0d0907aaa4a23404486c6ffff152e4620c85afb4cfb57ca2683826744906e60d",
+      "size": 309
+    },
+    {
+      "path": "assets/cyber.css",
+      "sha256": "f6bda6fce6017bbf52f2926b92742e0703bb614af4b877732b217458fbb9053d",
+      "size": 7261
+    },
+    {
+      "path": "assets/data.js",
+      "sha256": "06d1db8ee3d5a355ccb7dd066966ee1f4d062f6ffa4d9bb986c1264db071fcc9",
+      "size": 53808
+    },
+    {
+      "path": "assets/modules.js",
+      "sha256": "eeba21d03f05ce8fceab8319b74a37038f5c628c7be635837b553cece7cb14ad",
+      "size": 4163
+    },
+    {
+      "path": "assets/og.png",
+      "sha256": "8f64e17f8b865104b3030438edec056d54b789fd66230e4904ff41b17d18fd76",
+      "size": 30645
+    },
+    {
+      "path": "assets/ps3-logo.png",
+      "sha256": "9a4dbe47d28356703e81f0905de26c17c876efbbf1420e9c84f6cb6f36aa2fb6",
+      "size": 18137
+    },
+    {
+      "path": "assets/ps3.svg",
+      "sha256": "ee199f50c4fb430bc395ccdad0d28eff4f9d3b3c1cb4e7ed91846743cede72ef",
+      "size": 1980
+    },
+    {
+      "path": "assets/ps4-logo.png",
+      "sha256": "88db6f5befd239f9826c2acd0b62ae88f72b96f0fe382899b2817f352d68a9c1",
+      "size": 8177
+    },
+    {
+      "path": "assets/ps4.svg",
+      "sha256": "331f45692ba6d2e3a800246f70a95ec1700a4842731aaacb7d1b49398971e291",
+      "size": 1744
+    },
+    {
+      "path": "assets/ps5-logo.png",
+      "sha256": "aa582f3f8055df28d6164377856f5022dacdf8097a18ec57086852b5cb49dcea",
+      "size": 7787
+    },
+    {
+      "path": "assets/ps5.svg",
+      "sha256": "0388302da94cd7a20927c9f86dd8de27e5991371bd3319ad75a47890ee87abc5",
+      "size": 1935
+    },
+    {
+      "path": "assets/style.css",
+      "sha256": "cbbb25c711e8f0f18872cf7bd9c6fba615ec49e8918d03af0c8149e6e58ea2ea",
+      "size": 12417
+    },
+    {
+      "path": "cache/index.html",
+      "sha256": "23af103cb82f2653ef150ccfd9abd0ad48671a5e38aaa067c852edd2bf9a6b0b",
+      "size": 3372
+    },
+    {
+      "path": "catalog/index.html",
+      "sha256": "c4c84327a09e7d304b70af4a1141edcdae1058bcfb04dc3e92656fe1d5a537d9",
+      "size": 4874
+    },
+    {
+      "path": "compatibility/firmware.json",
+      "sha256": "23ea35b9037badff77feeb5bf4f54155aac36a9e5e8590407b7265f05dd9f211",
+      "size": 71093
+    },
+    {
+      "path": "compatibility/index.html",
+      "sha256": "dfc61fcfcc5d8ba5f14297905c7055955b81047358832e42ed2bad7430375c74",
+      "size": 37581
+    },
+    {
+      "path": "credits/index.html",
+      "sha256": "01f6ab76a23c96b98473f985480893da64ccc290ca2ef0fd12148200741a14e2",
+      "size": 3926
+    },
+    {
+      "path": "diagnostics/index.html",
+      "sha256": "f636e1cbcdcf0846b053d311e1d5b08998f96d38cdfedfd614f281751f147137",
+      "size": 3057
+    },
+    {
+      "path": "help/index.html",
+      "sha256": "aec9919a89bfcaddf79ef0d620ea7e800be24371898f4c7038aba3879c7091b6",
+      "size": 3126
+    },
+    {
+      "path": "id/404.html",
+      "sha256": "d1295006a6dbf8aa0904fa8a4d4a39a622c23947e80f9d59f4094a010e70a6e6",
+      "size": 2433
+    },
+    {
+      "path": "id/about/index.html",
+      "sha256": "002bc51c8fe60b53ffd13e6cd06c587224c8190ce3e9feba52fb539b551eb46d",
+      "size": 2898
+    },
+    {
+      "path": "id/cache/index.html",
+      "sha256": "ac6ad61cf41326be2d0222c680b1bfe89de51bd68ac6e82fee0cf600e951f4e0",
+      "size": 3497
+    },
+    {
+      "path": "id/catalog/index.html",
+      "sha256": "c22f81a244a688ad610eaf2d53138b8dfb71182702b7e88acd04e90b6384d318",
+      "size": 5020
+    },
+    {
+      "path": "id/compatibility/index.html",
+      "sha256": "22653b98d0c040d0446577c7cf2f74b0a2555ff7c59e058016faf1fec30bc046",
+      "size": 37585
+    },
+    {
+      "path": "id/credits/index.html",
+      "sha256": "56d9b3eb93609d7fa62a8332d4a7e06f40326fb308fcb7849ee9df8961e6c8b5",
+      "size": 4068
+    },
+    {
+      "path": "id/diagnostics/index.html",
+      "sha256": "286e6b9dc11db77e8e715e87eef519e5c004c0e38d86266e2226333cf0857ce2",
+      "size": 3223
+    },
+    {
+      "path": "id/help/index.html",
+      "sha256": "caefc938d35346effc1277fedd7f4394bb5a51aec54519ab90657f472b9ab3ce",
+      "size": 3283
+    },
+    {
+      "path": "id/index.html",
+      "sha256": "54befd4c689b8c13b3f17bde84164cf265b6108982f042bb2a073595ef9e288b",
+      "size": 5149
+    },
+    {
+      "path": "id/lab/index.html",
+      "sha256": "07510608e68edda1b4d126b3b933229f0b9506c86ec382da1738834e606398b5",
+      "size": 4242
+    },
+    {
+      "path": "id/launch/index.html",
+      "sha256": "b6fff3e5b13f0cff9253b17cd4c3b1a298ddbf9b8997c31599e827a012e2a982",
+      "size": 4166
+    },
+    {
+      "path": "id/privacy/index.html",
+      "sha256": "58842adbb9ce5db005a8416570ea03887efbf21134e3a9a5f82fa5da469a944e",
+      "size": 2997
+    },
+    {
+      "path": "id/ps3/index.html",
+      "sha256": "6fe9fc69234961403ca8ea8a3f124521f25db2e74708f48814aa3ca809a52c11",
+      "size": 5715
+    },
+    {
+      "path": "id/ps4/index.html",
+      "sha256": "80a073616568d3a49ab82e379f30b506b4cb69285e61bf700f0302c2b9b85f54",
+      "size": 6927
+    },
+    {
+      "path": "id/ps5/index.html",
+      "sha256": "02b295cf7acfed69e952bbaaa46f45edf71c4927de1c5ebdbf7b7fbb6fd5ecb2",
+      "size": 8863
+    },
+    {
+      "path": "id/recovery/index.html",
+      "sha256": "12f5f560d3e32f28f16be249936275d2275a2cecf2a89df5fad0343354f8fe44",
+      "size": 2959
+    },
+    {
+      "path": "id/settings/index.html",
+      "sha256": "9070d3f15ca0140c97fc3b64addd25e029ebf630d3ddf280c63fbd6ab50c471d",
+      "size": 3322
+    },
+    {
+      "path": "id/updates/index.html",
+      "sha256": "5ff39417815e844dd67a3be3879d2204a2cdf540ac04f510d7978145cce73a0a",
+      "size": 2979
+    },
+    {
+      "path": "index.html",
+      "sha256": "1b2f641930b37ac20f833d970172b38134ed7b288adf8c10af1e05c119fa735d",
+      "size": 5028
+    },
+    {
+      "path": "lab/index.html",
+      "sha256": "0bb5a0a5db7ce03e94067ee42360ad935e855e4df811b9ca07a496e4d8ed7619",
+      "size": 4065
+    },
+    {
+      "path": "launch/index.html",
+      "sha256": "39d22853c1718268665654232359e92f8cb6d33e481951155de075e82d3256fe",
+      "size": 3996
+    },
+    {
+      "path": "privacy/index.html",
+      "sha256": "0114c0ced4d2fd7c7f38249780b1468b257e00bbb13b6d22fbb12ce7dff0ca97",
+      "size": 2866
+    },
+    {
+      "path": "ps3/index.html",
+      "sha256": "16630be9cbff23aebfd11408cca03bdcb98b794510cfb584cf53642d82d46703",
+      "size": 5577
+    },
+    {
+      "path": "ps4/index.html",
+      "sha256": "83a79ff8a9a296b600913b5317b83f20c8b3590a4c7e888d9ceaba5c3a793b0f",
+      "size": 6806
+    },
+    {
+      "path": "ps5/index.html",
+      "sha256": "7b119104aab29ecfba8382b3a1c6bb6b821ab2a6dd8752d4ba80bf06b7e13cf7",
+      "size": 8690
+    },
+    {
+      "path": "recovery/index.html",
+      "sha256": "3d5f6855e05a6e3c03526243e81ce1e67bf884c72b35a601eecfd036991b39cd",
+      "size": 2804
+    },
+    {
+      "path": "settings/index.html",
+      "sha256": "0b34c63ab5297dcc4fc601430c0d84f41e2e53f3492bffea753d640702c8205e",
+      "size": 3179
+    },
+    {
+      "path": "updates/index.html",
+      "sha256": "ddf24f222b81a3f840a5701286958b276bab90df5de582257edbb39ab231d54f",
+      "size": 2837
+    }
+  ]
+}
