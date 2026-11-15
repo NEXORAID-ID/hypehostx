@@ -1,5 +1,0 @@
-
-> hypehostx@0.1.0-dev contracts
-> node tools/contracts.cjs
-
-Generated OpenAPI for 37 routes

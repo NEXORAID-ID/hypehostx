@@ -1,5 +1,0 @@
-
-> hypehostx@0.1.0-dev test:browser
-> node tests/browser.cjs
-
-PASS chromium routes, preferences, cache, offline reopen, responsive width, console

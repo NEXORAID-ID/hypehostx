@@ -1,6 +1,0 @@
-{
-  "engine": "PGlite PostgreSQL WASM",
-  "result": "PASS",
-  "backupBytes": 4705369,
-  "scope": "in-memory database archive restored into a separate engine; Docker pg_dump not exercised"
-}

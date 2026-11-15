@@ -1,4 +1,0 @@
-
-> hypehostx@0.1.0-dev build:backend
-> tsc -p backend/tsconfig.json
-

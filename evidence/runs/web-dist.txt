@@ -1,5 +1,0 @@
-
-> hypehostx@0.1.0-dev verify:dist
-> node tools/verify.cjs
-
-{"result":"PASS","totalBytes":38339,"jsBytes":32369,"cssBytes":3419,"files":8}

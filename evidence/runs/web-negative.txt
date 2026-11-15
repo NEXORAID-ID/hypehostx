@@ -1,5 +1,0 @@
-
-> hypehostx@0.1.0-dev test:web-negative
-> node tests/web-negative.cjs
-
-PASS chromium 7 browser denial/recovery scenarios
