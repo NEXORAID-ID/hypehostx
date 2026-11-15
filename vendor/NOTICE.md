@@ -1,0 +1,16 @@
+# Bundled upstream components — 2026-11-15
+
+The original portal is separate from these upstream implementations. HYPEHEN names do not rename or claim authorship of any engine. `manifest.json` records pinned commits, file sizes and SHA-256 hashes. Source ZIPs in `sources/` preserve the upstream trees and notices.
+
+- PS3HEN / PS3Xploit: GPLv3, `ps3hen/LICENSE.txt`. `offline_local/offline.zip` was extracted without changing executable bytes. It contains 16 CEX/DEX firmware theme files. Native HEN code may still download its final installer PKG from PS3Xploit; this is not an entirely independent/offline installation promise.
+- GamerHack: snapshot `5bc701d626331ce75f25d02514226324bf575a65`, credits retained. No repository-wide license identified. Nested PSFree notices specify AGPLv3; a copy is provided. GoldHEN is by SiSTR0 and contributors. The owner explicitly states GoldHEN permission is obtained; no private source, written terms or independent verification was supplied. That statement is not represented as a blanket license for all GamerHack code or unrelated payloads. Public redistribution scope remains a release-review item.
+- UMTX2 / idlesauce and contributors: Unlicense in `ps5/LICENSE`; full upstream archive included. PSFree retains AGPLv3 headers and `ps5/psfree/COPYING`. ELF loader by john-tornblom uses MIT, in `ps5/LICENSE-elfldr`.
+- etaHEN / LightningMods and contributors: GPLv3 in `ps5/LICENSE-etaHEN`. Exact 2.4B source snapshot `0fe0407b3a6a84fb1afc1871c953a74118458b0b` accompanies the host's identical binary; current 2.5B source snapshot `dafa13b562ddb137a4b4a97b9aaa287c0c57cc9c` also included.
+
+Local modifications (2026-11-15): GamerHack `g2all/css.manifest`, `g2all/slopkit/afterglow.js`, and `g2all/index.html` now name the actually bundled GoldHEN 2.4b18.14 instead of stale 2.4b18.13. No kernel/exploit algorithm changed. PS5 payload menu retains only etaHEN 2.4B and a separate 2.5B choice; the required ELF loader remains. Other optional PS5 payloads are not exposed or copied into the runtime tree. PS5 AppCache was regenerated using the upstream generator.
+
+No original-portal CSP is injected into upstream pages. Existing engine checks remain responsible for unsupported devices. Host/offset availability is not proof that any payload works on every model/firmware. No native execution was tested by the automated browser suite.
+
+Relapse / ntfargo and credited contributors is included under its MIT license at pinned commit `dd8e4e0914c5e9d066ee1f9b056be76cb992c8e0`. Runtime files and default loader/kernel payloads are unchanged; its Python development server is excluded. The complete source archive is included. Its 33 offset files and firmware list cover exact versions between 7.00 and 13.60. It launches an ELF loader, not etaHEN automatically. The etaHEN upstream `send_payload.ps1` is supplied for the separate PC-to-console step. No new native engine or payload sender was authored.
+
+Packaging exclusion: the UMTX2 source ZIP omits upstream `localhost.pem`, a development TLS certificate/private-key fixture unnecessary for static hosting. Runtime and corresponding program source remain included. Generate your own certificate if using that upstream development server.

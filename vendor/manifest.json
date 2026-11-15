@@ -1,0 +1,2267 @@
+{
+  "reviewed": "2026-11-15",
+  "snapshots": [
+    {
+      "component": "ps3hen",
+      "repository": "https://github.com/PS3Xploit/PS3HEN",
+      "commit": "6c529455261db97a0f9028fe96db522a97fd5ccc",
+      "sourceArchive": "vendor/sources/ps3hen-6c529455261d.zip"
+    },
+    {
+      "component": "gamerhack",
+      "repository": "https://github.com/GamerHack/GamerHack.github.io",
+      "commit": "5bc701d626331ce75f25d02514226324bf575a65",
+      "sourceArchive": "vendor/sources/gamerhack-5bc701d62633.zip"
+    },
+    {
+      "component": "umtx2",
+      "repository": "https://github.com/idlesauce/umtx2",
+      "commit": "a080beb74d9e4bc34f3563798b716bd86b2d6ee0",
+      "sourceArchive": "vendor/sources/umtx2-a080beb74d9e.zip"
+    },
+    {
+      "component": "etahen",
+      "repository": "https://github.com/etaHEN/etaHEN",
+      "commit": "dafa13b562ddb137a4b4a97b9aaa287c0c57cc9c",
+      "sourceArchive": "vendor/sources/etahen-dafa13b562dd.zip"
+    },
+    {
+      "component": "relapse",
+      "repository": "https://github.com/ntfargo/Relapse-Exploit",
+      "commit": "dd8e4e0914c5e9d066ee1f9b056be76cb992c8e0",
+      "sourceArchive": "vendor/sources/relapse-dd8e4e0914c5.zip"
+    }
+  ],
+  "assets": [
+    {
+      "path": "vendor/gamerhack/505/app2usb.bin",
+      "sha256": "463406a858610dd113c7097f659a20887e688f38acb880c07226cf8cb2e0374b",
+      "size": 17188
+    },
+    {
+      "path": "vendor/gamerhack/505/arabic-guy100.bin",
+      "sha256": "49d151bfb960fb42d465134ab91f5173407a8ac202d75d23a3b2e441bc7cffd0",
+      "size": 1055340
+    },
+    {
+      "path": "vendor/gamerhack/505/arabic-guy127.bin",
+      "sha256": "e9491cf607fcec91f9031105f48df5dc1c304fd03d54ce4b32798906c73fbd18",
+      "size": 2432455
+    },
+    {
+      "path": "vendor/gamerhack/505/arabic-guy132.bin",
+      "sha256": "7b9c1242b0c18c4e8ce43216518c09bb8550ad31328a3dc16185d8d2ee7f7b8b",
+      "size": 1059520
+    },
+    {
+      "path": "vendor/gamerhack/505/arabic-guy133.bin",
+      "sha256": "617318304d6303272e5d6287f812e7c8a4c6cf99684c5664b5ec27a6704bc85b",
+      "size": 1059520
+    },
+    {
+      "path": "vendor/gamerhack/505/backup.bin",
+      "sha256": "00ea69a94053d183ad31bb703e09cc470e493c65cfa7d09f6819c6ef3ccb45dd",
+      "size": 9104
+    },
+    {
+      "path": "vendor/gamerhack/505/cache.html",
+      "sha256": "3e8cfe8486f5528ea87d4ca2ec32911c1d2142edc4fc4817b730881b5be5d0f0",
+      "size": 1573
+    },
+    {
+      "path": "vendor/gamerhack/505/cache.manifest",
+      "sha256": "0ed8171801f0594ac96d1cf867120120e4589eca44d13afb02af22f77635a6ad",
+      "size": 765
+    },
+    {
+      "path": "vendor/gamerhack/505/disable-updates.bin",
+      "sha256": "7000bbb5723ce2f4fbc2269c03ac6a56d50867dcc3cde0e5790ff4f491e4dab7",
+      "size": 4068
+    },
+    {
+      "path": "vendor/gamerhack/505/dumper.bin",
+      "sha256": "66ac7f5aa766b792211e41f7223e07d07f5bc4612f6a0bbd65b22a67faef3782",
+      "size": 14616
+    },
+    {
+      "path": "vendor/gamerhack/505/enable-updates.bin",
+      "sha256": "4e753638beb0f58a2fe7f0a40e78fa078514770c6a6f5bda3cb4021b26f664c9",
+      "size": 4032
+    },
+    {
+      "path": "vendor/gamerhack/505/exploit.js",
+      "sha256": "365ccef21d9726cabce28995d8b61ae4496f9cf34c312474a6fadb40e1216402",
+      "size": 39623
+    },
+    {
+      "path": "vendor/gamerhack/505/fan-threshold50.bin",
+      "sha256": "7b5d5b367e653bbc4ecbe0b977832c14d418a391bac02708e62cd880ddeac4e5",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/505/fan-threshold55.bin",
+      "sha256": "9d8c2aa6a3e424328bd040e9122370f8c9cc7182bc4da21142d8cfbc43c70367",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/505/fan-threshold60.bin",
+      "sha256": "3fce5c84aa16e442f0d1f756d595fc9c773cef588a8f7b26b4934140f8bc69c2",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/505/fan-threshold65.bin",
+      "sha256": "d0345cc8506ce861f3f496d6832946cfe5b004dbf2efa2b9ea317e3b382ac6ec",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/505/fan-threshold70.bin",
+      "sha256": "afe9c60b51fa41deb6b9aa1044c45a92789264606ecfe5d68adcae425567465b",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/505/fan-threshold75.bin",
+      "sha256": "7a9539f7321090f715b661d5a12094a7490f91fd1e1fe3e9398c5aec68e127a0",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/505/ftp.bin",
+      "sha256": "665eeefde82abe40264533093c270c8be566736ec7c75bd88d5792e88545abb3",
+      "size": 17156
+    },
+    {
+      "path": "vendor/gamerhack/505/goldhen_2.3_505.bin",
+      "sha256": "a58e3633c6992b0b392a572679ba56d2a5344d03ad715e0cf30df3341f17e6be",
+      "size": 280792
+    },
+    {
+      "path": "vendor/gamerhack/505/goldhen_2.4b18.14.bin",
+      "sha256": "c5480587d99efc2e3cc132352d9b7cf052dd3068280f1686e7fbb37d57e9ba8b",
+      "size": 298776
+    },
+    {
+      "path": "vendor/gamerhack/505/index.html",
+      "sha256": "9959b08faab1a45b1f7dbeaf5cae037aaff3654f6e93c78fa5f3dc7efbe901a1",
+      "size": 862713
+    },
+    {
+      "path": "vendor/gamerhack/505/kernel-dumper.bin",
+      "sha256": "9e7ce03da5ce3500d295b49d28466ed79411db896b2c9cc69972af14a48b1caa",
+      "size": 9880
+    },
+    {
+      "path": "vendor/gamerhack/505/Lamance-v0.9-1.38.bin",
+      "sha256": "7c9985cae235bffd95092765a6f294d668ab8f0421344dbef6b6ddd1230b3745",
+      "size": 1128208
+    },
+    {
+      "path": "vendor/gamerhack/505/Orbis-Toolbox-505.bin",
+      "sha256": "657aad360767ce7f9cef3c374f8ea448870df8d3cf6534a582930bbec0b400ce",
+      "size": 626472
+    },
+    {
+      "path": "vendor/gamerhack/505/OystersMenu-v1.00.bin",
+      "sha256": "09925fe9288bd9e68f49ffaffba3e92fb6ddb1c8cf416e16251cdef53f19a67a",
+      "size": 1260864
+    },
+    {
+      "path": "vendor/gamerhack/505/OystersMenu-v1.13.bin",
+      "sha256": "38f847706303c2c2b5b71102073ac86fa534f1bc09b6c40129275a53b0c81718",
+      "size": 1260864
+    },
+    {
+      "path": "vendor/gamerhack/505/OystersMenu-v1.19.bin",
+      "sha256": "93fd71c737f4433f72dd594685303e23183859fa448dfafefc15bd8906676f7e",
+      "size": 1260864
+    },
+    {
+      "path": "vendor/gamerhack/505/OystersMenu-v1.24.bin",
+      "sha256": "b5566c5629c86f8860ba190537e0c2a2e220c879f469a155b924467b975ec08d",
+      "size": 1260864
+    },
+    {
+      "path": "vendor/gamerhack/505/OystersMenu-v1.29.bin",
+      "sha256": "424f9dbf4813cd55366d446d36d0dc84aa950025a6341a47d1ac0f5f8dbf6986",
+      "size": 1260864
+    },
+    {
+      "path": "vendor/gamerhack/505/parental-controls.bin",
+      "sha256": "8c8444ccce1bc8dd2dd9a34cff775534654ee5f9bc19f07a610c1bf2dc77a76b",
+      "size": 7892
+    },
+    {
+      "path": "vendor/gamerhack/505/ps4debug100.bin",
+      "sha256": "4ba204ed5cf8c9d32c1462a4a2bb4e9fae6f8df2e47954201dba3e6b42f44be1",
+      "size": 87384
+    },
+    {
+      "path": "vendor/gamerhack/505/PS4ren.bin",
+      "sha256": "b4331b174fb29664fc3d911b7711122d9fd6942b084e812931272f9730207b85",
+      "size": 13030
+    },
+    {
+      "path": "vendor/gamerhack/505/restore.bin",
+      "sha256": "fd1f2ce4cf87daae681fa6fd177af2b5b265390ad50a7f61943a0e4faef7c66a",
+      "size": 9416
+    },
+    {
+      "path": "vendor/gamerhack/505/rif-renamer.bin",
+      "sha256": "a1a7354697b2c17a7023928c7f9bb905e6708fda1c60aacb4808aa19af68648d",
+      "size": 7048
+    },
+    {
+      "path": "vendor/gamerhack/505/todex.bin",
+      "sha256": "9fef0f27557b6106400379bb16c1f3ea203ce882f01135405a3c8a3651d66882",
+      "size": 2288
+    },
+    {
+      "path": "vendor/gamerhack/505/webrte.bin",
+      "sha256": "1ca190e43d4e7e96ee6738390f139635db1928df8d731309117de0dbdac42662",
+      "size": 40440
+    },
+    {
+      "path": "vendor/gamerhack/505/WildeModz-1.32.bin",
+      "sha256": "f8ec40617e59fcfbba033547f17a567c82ed50fb00563f3349f0d88283ccd2b9",
+      "size": 1074320
+    },
+    {
+      "path": "vendor/gamerhack/505/WildeModz-1.33.bin",
+      "sha256": "1c742c48aeb6009f3e99468ab2702499ed66f0d642d624e9844a0f4aa595fb60",
+      "size": 1074320
+    },
+    {
+      "path": "vendor/gamerhack/505/WildeModz-1.38.bin",
+      "sha256": "2da00a14596b5e148097d209c3ca440c064e85356d10d61f584743a59895ce92",
+      "size": 592864
+    },
+    {
+      "path": "vendor/gamerhack/505/WildeModz-1.46.bin",
+      "sha256": "f262d4878e01d057e4ee4d35a49ddf1363fa4ee9667dd50acf181a99aa8af07d",
+      "size": 29416
+    },
+    {
+      "path": "vendor/gamerhack/672/cache.manifest",
+      "sha256": "779a2538d2a5a0b2c3bf69120fe90addea345d4173b31f60c88472c1715ac7cd",
+      "size": 1112
+    },
+    {
+      "path": "vendor/gamerhack/672/frontend.js",
+      "sha256": "11a3e627e5125934d3ef4704ccab4169345ed32d9f15a166075d6708a5167253",
+      "size": 5807
+    },
+    {
+      "path": "vendor/gamerhack/672/goldhen_2.4b18.14.bin",
+      "sha256": "c5480587d99efc2e3cc132352d9b7cf052dd3068280f1686e7fbb37d57e9ba8b",
+      "size": 298776
+    },
+    {
+      "path": "vendor/gamerhack/672/index.html",
+      "sha256": "296179eb1ce966c31782065501dbc3573fd27b486b1317b189db8a3af3f4d481",
+      "size": 1334633
+    },
+    {
+      "path": "vendor/gamerhack/672/jb2.js",
+      "sha256": "27566c585fe13584dd8d225de8a019a5a21d650f2d956a8fa7035b068adae6ba",
+      "size": 800868
+    },
+    {
+      "path": "vendor/gamerhack/672/OystersMenu-v1.3.8-v1.00.bin",
+      "sha256": "4c7ce16309f7d6164bab07238f6ca864e3b5744bceea3c9d63ed894b1cd31451",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/672/OystersMenu-v1.3.8-v1.13.bin",
+      "sha256": "44174737c965b5063e8257939d0a7320aab697bfdaaa1240a0c3dba90a0b144e",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/672/OystersMenu-v1.3.8-v1.19.bin",
+      "sha256": "100e0a0e1205c764001e3a9a37557bb4ab6e02841ae8493321313f4008e40981",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/672/OystersMenu-v1.3.8-v1.24.bin",
+      "sha256": "20648156363665c6fcfd0daf77b64c1827168b5b0c775919541d277f7f6d7a93",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/672/OystersMenu-v1.3.8-v1.29.bin",
+      "sha256": "d972ff1b73601069e1e18365d08a26637a33ce00ff0c5063aa03c1e221961aa1",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/672/payload.js",
+      "sha256": "1ebe1623001e6c221f97110fcb55d5d39fe52cb61c15d25242b500e80be19f48",
+      "size": 42596
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_App2usb.bin",
+      "sha256": "1cf7f9cef31379010931720af10551d620b9b1457ef577f22420d681d93315a8",
+      "size": 17768
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_AvatarBackup.bin",
+      "sha256": "e0413a60be6748f6bd413d46346768ea64e0d90ffdaa7edd11ed4a3e23a7007b",
+      "size": 11565
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_AvatarRestore.bin",
+      "sha256": "a5f10b6bdcd0b8fc3f3e3351eaaaa5bc9633190d6fe0a7eebc5cf180cf0be2b1",
+      "size": 10739
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_DBbackup.bin",
+      "sha256": "69f45f78ed89acb21ffb292008d430b9b969cd6d5826ba0b7a8405abe570d6fb",
+      "size": 8976
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_DBrestore.bin",
+      "sha256": "1b92551dbf68aee1f4d71058b8a7c458574e8c445636f967b33570de6372f17e",
+      "size": 8907
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_DumperG.bin",
+      "sha256": "7e142e2de9c9899fba9ea1200dd985df0d0cee8894c67cda093c72a6479c9b5e",
+      "size": 13825
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_DumperGU.bin",
+      "sha256": "3aaa86aef0b20810cc6720d86033fe8cf4625fcc876c293fa96ca537087a097f",
+      "size": 13829
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_DumperM.bin",
+      "sha256": "a1f5bc78654b4a7e9b2bccab5ce88e0abbe15b51b5f9b1dd1facdb4ba577f9aa",
+      "size": 13829
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_DumperU.bin",
+      "sha256": "fa6f79da0c1a5c2915a805f33ce32597be92b02bfb8f1c2300cf289cbb734644",
+      "size": 13827
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_FanThresh.js",
+      "sha256": "987cf9e1253f01c3ae33fba4a04cc55d22d028bd24719e988a075a854b421f32",
+      "size": 21164
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_FTP.bin",
+      "sha256": "79b669fafee6e1c5ff94312d991f911a697d9e91c5d4ca328e441d0805b50856",
+      "size": 20034
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_FWspoof.js",
+      "sha256": "6bc0841a1d2812f827e7eb3dfcdf684622e65d6916333b4a99dcb8b5cffe80da",
+      "size": 16690
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_GTA_ArabicGuy100.bin",
+      "sha256": "41a189bec891d371cb48fe5d727b986bdb0ae15a50fc6a0df4e2106caa6041d5",
+      "size": 1055064
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_GTA_ArabicGuy127.bin",
+      "sha256": "1291b7a2f14b888bea93a076beb889a8980be8d92b489f62f742e0cc2126b5ee",
+      "size": 1055384
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_GTA_ArabicGuy132.bin",
+      "sha256": "c868f5f52fa6ead0464f37066702865470f4010210b2ade595b47cf490b6e6ae",
+      "size": 1054936
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_GTA_Lamance-v0.9-1.38.bin",
+      "sha256": "7c9985cae235bffd95092765a6f294d668ab8f0421344dbef6b6ddd1230b3745",
+      "size": 1128208
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_HDD_Backup.bin",
+      "sha256": "eed986fc7c3a2b6b21e834622a7a4e60abc897b05f26108a5efcfe1ff3618ba1",
+      "size": 12240
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_HDD_Restore.bin",
+      "sha256": "04ce45f293fc86a7904e29e0f18f2e6a0d5dc7c81b61b59bd9e895ce1d93f1dd",
+      "size": 10192
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_hen_2.1.3.bin",
+      "sha256": "fbe052207712f060fc8d998fc4cf292ef16a326c9e6053077fd4c46c87ac4249",
+      "size": 8704
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_hen_2.1.3b.bin",
+      "sha256": "f5cb02fee887deac765bfd315e4b08d67869e1150fbf40361a7d7ff0de9cfea8",
+      "size": 8717
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_HistoryBlocker.bin",
+      "sha256": "cbe71ec3e0de8165eb5ae221d391dcabe0c803476811fcd016404b6c43f0edcf",
+      "size": 7417
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_KernelDumper.bin",
+      "sha256": "a77017e950aa3f3bdee035e10d41892a1fffa9c42d4fcce9af22809c095c4a61",
+      "size": 8109
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_LinuxBaikal.bin",
+      "sha256": "9a30612c94eb405c69d74d18a46585a83b6d1f6b7826fedf70e073a05222486f",
+      "size": 21064
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_LinuxUSB.bin",
+      "sha256": "0353c4462a70926034c2a07589f193f8cdcdd78d5622253a0a46201313b9add8",
+      "size": 17288
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_loader.js",
+      "sha256": "f6b084fb8bf31a0e51fae36ceafd39ae8467c2e105027c9ebcdec350b2b96205",
+      "size": 501601
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_loaderBL.js",
+      "sha256": "347f1d657e861a4e260b126ecb3efc8e99de8dfe164516f34aa4a131846a1bc3",
+      "size": 500898
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_loaderFW.js",
+      "sha256": "6311e74f81953af31b5bda2cbbf70d518e75403bebfd5c2d7920518cbabcb752",
+      "size": 508215
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_loaderWeb.js",
+      "sha256": "01f6450f8a67232af778869b5004d8c8bf0d02fc631fc19cea3160b6098bd370",
+      "size": 500886
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_mira.bin",
+      "sha256": "8df30b3f4a84686b006173479e2561b9be0ee36b9cb78403600acaceb5ec9d02",
+      "size": 344824
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_OfflineCacheBackup.bin",
+      "sha256": "281ee728ec06afddc6595e9a87d11c5a95a116627de4b7efb15ddaddc323eb88",
+      "size": 8400
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_OfflineCacheRestore.bin",
+      "sha256": "5d8d057a7f61367e3d9d4ad452480e99e7a415111bd8816ec9a3370a678a7322",
+      "size": 8384
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_Orbis-Toolbox-672.bin",
+      "sha256": "e7b7ec16ddff11b8581654a0c3152ec8f43111d690a757ea0e585ceb7f5c2913",
+      "size": 626568
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_PS4Debug.bin",
+      "sha256": "f94c83e80adc07c33e8f781a8a061545aa750222d6a9eabeb56b1b870d33162b",
+      "size": 53088
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_SaveDataBackup.bin",
+      "sha256": "040779d26d9158eb5a1ceedbf306cbbc972d4f95f27318902f97ea99b57c7fcb",
+      "size": 11328
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_SaveDataRestore.bin",
+      "sha256": "3f35911e8e0498e8b7cf6c209eaa365c0b36be7fd0168752162f3db0d5504952",
+      "size": 9632
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_ToDex.bin",
+      "sha256": "04373e842ba85cf45f771a3075f0cd5c4c752f9d8a8c925a13d3715e4ba8ae63",
+      "size": 2320
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_TrophyBackup.bin",
+      "sha256": "501c91730ccc1b9a5fb82d56f858fc47a26c684bd5efd418c13a126f933e40b5",
+      "size": 10216
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_TrophyRestore.bin",
+      "sha256": "0eedcc074e17f459c6b445b2290261345c07046e1748dd6d0417a26d86267f3e",
+      "size": 9184
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_UpdatesDisable.bin",
+      "sha256": "2b6754cb87f2f9a530822104f34efcba97f292cd6432fc3c9d2abae2520d1097",
+      "size": 6793
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_UpdatesEnable.bin",
+      "sha256": "672cfea9258fb65db4660ce9c8f2feb5ea99edc5b60e2871e5d9c91fe393e598",
+      "size": 6758
+    },
+    {
+      "path": "vendor/gamerhack/672/pl_WebRTE.bin",
+      "sha256": "c60ec3aba3773ea1f0103d9501e09cad87e63756dc70d7b9d024f290797fd5d6",
+      "size": 37408
+    },
+    {
+      "path": "vendor/gamerhack/672/WildeModz-1.46.bin",
+      "sha256": "9a8bc055f89a056b12b5bfd56c8b4b55f4f66025e9bea48475eae38b25f1a45b",
+      "size": 2610904
+    },
+    {
+      "path": "vendor/gamerhack/672goldhen/cache.manifest",
+      "sha256": "cc8d8e3f239ccea5b264b6a002457af04a555e39d88248abf9b14513a220cac2",
+      "size": 101
+    },
+    {
+      "path": "vendor/gamerhack/672goldhen/exp_loader.js",
+      "sha256": "46ef0c9dbbdfdebe13fdec51494ee1fbf4a95ca13399645504af27d8361b1eca",
+      "size": 501357
+    },
+    {
+      "path": "vendor/gamerhack/672goldhen/goldhen_2.4b18.14.bin",
+      "sha256": "c5480587d99efc2e3cc132352d9b7cf052dd3068280f1686e7fbb37d57e9ba8b",
+      "size": 298776
+    },
+    {
+      "path": "vendor/gamerhack/672goldhen/index.html",
+      "sha256": "a5b6e184439fdb7d9f706d1d6d78eb9e44c0ca8c9d30edf5ecbb204ed11c65f6",
+      "size": 18752
+    },
+    {
+      "path": "vendor/gamerhack/672goldhen/jb.js",
+      "sha256": "c20dced7b7fd0dfc49bb4aa74a36de5e61353417943952f4db64fa47ee135188",
+      "size": 801013
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/cache.html",
+      "sha256": "bda757afe64fe1206c158e886889242a61bd96bd5b36d08bc5a31544ab06b74d",
+      "size": 1374
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/cache.manifest",
+      "sha256": "ff240623e9a7721ec08fd4455af0cb18bf9db769922f05704d34a3c06b2e61af",
+      "size": 131
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/goldhen_2.4b18.14.bin",
+      "sha256": "c5480587d99efc2e3cc132352d9b7cf052dd3068280f1686e7fbb37d57e9ba8b",
+      "size": 298776
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/index.html",
+      "sha256": "95f2b8cded165eafc4913def78c8e7b9df7976496d76463ef47b84b0d2e6b74c",
+      "size": 1989
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/int64.js",
+      "sha256": "075052a1393e61b19a1ef5acf685bb41fa65d5f2bbd27a09932e1fe10bdc8420",
+      "size": 2388
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/kexploit.js",
+      "sha256": "f03566d655bf29c24c1858b92368456ab0133c3fd26cbe7ddebfa9bb59e050ad",
+      "size": 24931
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/rop.js",
+      "sha256": "7ad578ad145b54b33cd5c8a2f7a23837dfe1343ed0ce444041770fac09b80b29",
+      "size": 5331
+    },
+    {
+      "path": "vendor/gamerhack/900goldhen/webkit.js",
+      "sha256": "b65eb763b9430a3faf9a698b3e9a723e37fa51632317e4bd2c786e0733307e62",
+      "size": 15025
+    },
+    {
+      "path": "vendor/gamerhack/900v3/app2usb.bin",
+      "sha256": "6ff69806840f710846a4ce08d70a29a831385e3a8786c4ee9421cbf84985cca3",
+      "size": 22444
+    },
+    {
+      "path": "vendor/gamerhack/900v3/arabic-guy100.bin",
+      "sha256": "80849dc10d770b5e4596b0c32774b03b156245c18f1527157d6a967854b990a8",
+      "size": 1055408
+    },
+    {
+      "path": "vendor/gamerhack/900v3/arabic-guy127.bin",
+      "sha256": "a603fa84029a0c9bd29e3e5d6ea2f97aa668f0600403c4102f4c35b186b982f4",
+      "size": 1055408
+    },
+    {
+      "path": "vendor/gamerhack/900v3/arabic-guy132.bin",
+      "sha256": "3dddf0161fb409e7e9711c6b53e4eaef4c34f9768e263a9821b217b1bde00daa",
+      "size": 1055408
+    },
+    {
+      "path": "vendor/gamerhack/900v3/arabic-guy133.bin",
+      "sha256": "617318304d6303272e5d6287f812e7c8a4c6cf99684c5664b5ec27a6704bc85b",
+      "size": 1059520
+    },
+    {
+      "path": "vendor/gamerhack/900v3/backup.bin",
+      "sha256": "81d59e79c175b39a93927a07cbd4816a0f106a158457e3a62f62f5a73e359518",
+      "size": 13124
+    },
+    {
+      "path": "vendor/gamerhack/900v3/BeefQueefMod-133.bin",
+      "sha256": "d9df758cdd076aa360f997cfb598551cf0d69d9e5e2b4635b55bd7d23e33a211",
+      "size": 1063824
+    },
+    {
+      "path": "vendor/gamerhack/900v3/BeefQueefMod-134.bin",
+      "sha256": "e34c81b6464dbc58fe69458823d8e4029c93d4e9bfdc601c56f8430b4c3aaaf5",
+      "size": 1063880
+    },
+    {
+      "path": "vendor/gamerhack/900v3/BeefQueefMod-138d.bin",
+      "sha256": "1c649bab177d47b0128b28b16e1b5002195f5ebf4d4eddb06dc54f6965f93e9e",
+      "size": 1073836
+    },
+    {
+      "path": "vendor/gamerhack/900v3/BeefQueefMod-Unified-147e.bin",
+      "sha256": "a8a6789cd8873224dde81f4924cfd12f9d87f430e552d50064e9aabd23171ead",
+      "size": 480740
+    },
+    {
+      "path": "vendor/gamerhack/900v3/cache.html",
+      "sha256": "85aaddc84733be907d8a911b6ee53cbe2f321ca2fb138778a236498b5ba73f4e",
+      "size": 1393
+    },
+    {
+      "path": "vendor/gamerhack/900v3/cache.manifest",
+      "sha256": "f7cf10d7f109725178e2fe73f94c07699b60caa8117fe5d5e6d428bf03531d44",
+      "size": 961
+    },
+    {
+      "path": "vendor/gamerhack/900v3/disable-aslr.bin",
+      "sha256": "dfb49f7ecd9b15b2d262ad4fd11392e500b2506a9e90d705e22b68234be4170b",
+      "size": 8516
+    },
+    {
+      "path": "vendor/gamerhack/900v3/disable-updates.bin",
+      "sha256": "8d7b62468074f0eb7f74f74cddde4c480ff0a9e7d664d93cc1d912e9fa06bf68",
+      "size": 7292
+    },
+    {
+      "path": "vendor/gamerhack/900v3/dumper.bin",
+      "sha256": "02d28fcdcc72f51c133f5f274bb98430b8d7b7337f8769236f21e54da3fe77fd",
+      "size": 21912
+    },
+    {
+      "path": "vendor/gamerhack/900v3/dumperG.bin",
+      "sha256": "0da1b707e43d523232dee6ca6a39f73e39864afa6bfd233ea27936baa1751960",
+      "size": 14612
+    },
+    {
+      "path": "vendor/gamerhack/900v3/dumperMGU.bin",
+      "sha256": "3a6e550ede1e8f8fd46f132059872c924a0286b22bb616927015c8df46710909",
+      "size": 14621
+    },
+    {
+      "path": "vendor/gamerhack/900v3/dumperSGU.bin",
+      "sha256": "50cb64442cb3ce87b376f5a5e2ccea5ab757e45459e86654532ab258c4d5c455",
+      "size": 14616
+    },
+    {
+      "path": "vendor/gamerhack/900v3/dumperU.bin",
+      "sha256": "7bd608f801d5e5dc3fdd435ae801ac0c41585780341e63940c2e9012deda9391",
+      "size": 14614
+    },
+    {
+      "path": "vendor/gamerhack/900v3/enable-updates.bin",
+      "sha256": "4a2d6b1daa6ca521ff577c8415722565d6bda23344f0a24de36a61bbd74ae21f",
+      "size": 7260
+    },
+    {
+      "path": "vendor/gamerhack/900v3/exit-idu.bin",
+      "sha256": "7819b5b62b46e62629ec12afbb49f37f1befaad956be2a2950563fc3fcace4fe",
+      "size": 8644
+    },
+    {
+      "path": "vendor/gamerhack/900v3/exploit.js",
+      "sha256": "fd08e139a9087621414ad6140176c88a376311c6d1d237853fadfa17cf78a06d",
+      "size": 12033
+    },
+    {
+      "path": "vendor/gamerhack/900v3/Expulsion-V4.0-1.38.bin",
+      "sha256": "c3df5201df8b17add26ea58794d3ec95d39a021586f1e4e2517b48fa540754e1",
+      "size": 1055312
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold40.bin",
+      "sha256": "e07c24fcdbf9ff1e92e600bde1bb140bc138f7ab5b44424e0f665c6b84945af0",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold45.bin",
+      "sha256": "c4ac19950a0bf985c828e23fafa2dd188a5a0c573234094b73c9e48ca029e515",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold50.bin",
+      "sha256": "7b5d5b367e653bbc4ecbe0b977832c14d418a391bac02708e62cd880ddeac4e5",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold55.bin",
+      "sha256": "9d8c2aa6a3e424328bd040e9122370f8c9cc7182bc4da21142d8cfbc43c70367",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold60.bin",
+      "sha256": "3fce5c84aa16e442f0d1f756d595fc9c773cef588a8f7b26b4934140f8bc69c2",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold65.bin",
+      "sha256": "d0345cc8506ce861f3f496d6832946cfe5b004dbf2efa2b9ea317e3b382ac6ec",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold70.bin",
+      "sha256": "afe9c60b51fa41deb6b9aa1044c45a92789264606ecfe5d68adcae425567465b",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/fan-threshold75.bin",
+      "sha256": "7a9539f7321090f715b661d5a12094a7490f91fd1e1fe3e9398c5aec68e127a0",
+      "size": 7472
+    },
+    {
+      "path": "vendor/gamerhack/900v3/frontend.js",
+      "sha256": "2b19d303fbd1fb8493bef8b2b0554c14bbf3015e5daef3fecf406666461807b4",
+      "size": 6385
+    },
+    {
+      "path": "vendor/gamerhack/900v3/ftp.bin",
+      "sha256": "a6d1e15b3e46bab1d627656177ac9480b03f534ae24d8a9c4e01c9d8a2d15f37",
+      "size": 24500
+    },
+    {
+      "path": "vendor/gamerhack/900v3/goldhen_2.3.bin",
+      "sha256": "c9b8f33d28258af9e80465da591868dada25a1454f30f63882668d5e0dcff9c2",
+      "size": 282648
+    },
+    {
+      "path": "vendor/gamerhack/900v3/goldhen_2.4b18.14.bin",
+      "sha256": "c5480587d99efc2e3cc132352d9b7cf052dd3068280f1686e7fbb37d57e9ba8b",
+      "size": 298776
+    },
+    {
+      "path": "vendor/gamerhack/900v3/history-blocker.bin",
+      "sha256": "05eb68e31a7e31810fedcc783c17268b348869ef0a1ea09752cd39bc9e1073cb",
+      "size": 9132
+    },
+    {
+      "path": "vendor/gamerhack/900v3/index.html",
+      "sha256": "6fabfbe17531fd755e56dcbd41a7244bc49be6537b083d7922870b0a78a4d2f4",
+      "size": 27067
+    },
+    {
+      "path": "vendor/gamerhack/900v3/int64.js",
+      "sha256": "075052a1393e61b19a1ef5acf685bb41fa65d5f2bbd27a09932e1fe10bdc8420",
+      "size": 2388
+    },
+    {
+      "path": "vendor/gamerhack/900v3/jbc_loader.js",
+      "sha256": "1823d3e490cde56b55f2c43939ead7186126e5b6f4fa1e9d23e66000e6bb5a41",
+      "size": 45522
+    },
+    {
+      "path": "vendor/gamerhack/900v3/kernel-dumper.bin",
+      "sha256": "52e6a108df178b1ae235320c6ef5a697c34346d9353abcf0b782dcb19532ebdd",
+      "size": 14508
+    },
+    {
+      "path": "vendor/gamerhack/900v3/kexploit.js",
+      "sha256": "f03566d655bf29c24c1858b92368456ab0133c3fd26cbe7ddebfa9bb59e050ad",
+      "size": 24931
+    },
+    {
+      "path": "vendor/gamerhack/900v3/Lamance-v0.9-1.38.bin",
+      "sha256": "7c9985cae235bffd95092765a6f294d668ab8f0421344dbef6b6ddd1230b3745",
+      "size": 1128208
+    },
+    {
+      "path": "vendor/gamerhack/900v3/Linux-1gb.js",
+      "sha256": "8690be8e0f7dfa84b5423133ecab302b9638adcf367c999cc497a35402d09d86",
+      "size": 63492
+    },
+    {
+      "path": "vendor/gamerhack/900v3/Linux-2gb.js",
+      "sha256": "e33c549c085553dbbe6f79a43af327f5f5c4b9b496f08296d4d687508c75bb1f",
+      "size": 63492
+    },
+    {
+      "path": "vendor/gamerhack/900v3/Linux-3gb.js",
+      "sha256": "e24ad98aa430193e5b66cf84a4c59a147d18c3011196b404d918d88abe0c6429",
+      "size": 63492
+    },
+    {
+      "path": "vendor/gamerhack/900v3/Linux-4gb.js",
+      "sha256": "0fdf79d44fd06b6755e23114914ae11e79f6cde74297b148ac343e4997abe2fe",
+      "size": 63492
+    },
+    {
+      "path": "vendor/gamerhack/900v3/LinuxPro-1gb.js",
+      "sha256": "1241d4870d9b18f009480cf14a3dfb1efb5efb72beb232fb34cfc6641330c3cc",
+      "size": 63437
+    },
+    {
+      "path": "vendor/gamerhack/900v3/LinuxPro-2gb.js",
+      "sha256": "d4e595b9eec588b7ccfac2df317a532280232dc7aaf190846606053bcef01192",
+      "size": 63437
+    },
+    {
+      "path": "vendor/gamerhack/900v3/LinuxPro-3gb.js",
+      "sha256": "fc21253f591c668d05bfe54c81534c3cfc8195c771e229255270ce83c01327ca",
+      "size": 63437
+    },
+    {
+      "path": "vendor/gamerhack/900v3/LinuxPro-4gb.js",
+      "sha256": "90222f07ad1aae9c2dc4e8e9bb6628b39f65b87c5f840141bf8b45e1cd885195",
+      "size": 63437
+    },
+    {
+      "path": "vendor/gamerhack/900v3/malloc.js",
+      "sha256": "d9afd498fc57cad6089b13ccbd0fb549c35d83496ab634377a9ad979bf43ea03",
+      "size": 156
+    },
+    {
+      "path": "vendor/gamerhack/900v3/module-dumper.bin",
+      "sha256": "c880aae3d6241aa91c5dbeb89f1499ea34b3fe04d74bf322a435900f61f6f289",
+      "size": 14444
+    },
+    {
+      "path": "vendor/gamerhack/900v3/netcat.js",
+      "sha256": "493231d6c92550aee2b6888e5e31bfb022e189ffafebeb65875f6da0633437dc",
+      "size": 411454
+    },
+    {
+      "path": "vendor/gamerhack/900v3/Orbis-Toolbox-900.bin",
+      "sha256": "466d816ad26393deb6476c90acda77cb80a6e2c7a15ed70cf588c9447b0a7835",
+      "size": 626392
+    },
+    {
+      "path": "vendor/gamerhack/900v3/OystersMenu-v1.00.bin",
+      "sha256": "4c7ce16309f7d6164bab07238f6ca864e3b5744bceea3c9d63ed894b1cd31451",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/900v3/OystersMenu-v1.13.bin",
+      "sha256": "44174737c965b5063e8257939d0a7320aab697bfdaaa1240a0c3dba90a0b144e",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/900v3/OystersMenu-v1.19.bin",
+      "sha256": "100e0a0e1205c764001e3a9a37557bb4ab6e02841ae8493321313f4008e40981",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/900v3/OystersMenu-v1.24.bin",
+      "sha256": "20648156363665c6fcfd0daf77b64c1827168b5b0c775919541d277f7f6d7a93",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/900v3/OystersMenu-v1.29.bin",
+      "sha256": "d972ff1b73601069e1e18365d08a26637a33ce00ff0c5063aa03c1e221961aa1",
+      "size": 1567488
+    },
+    {
+      "path": "vendor/gamerhack/900v3/payload.js",
+      "sha256": "875c856818e13cd470dc55abedfb2478bcc754d1be27f7b64c8f8f22117f3a84",
+      "size": 54884
+    },
+    {
+      "path": "vendor/gamerhack/900v3/permanent-uart.bin",
+      "sha256": "b5a50abac18c204985d56d4f998eb1464078b0d5412b28725d4c27b04efaad8b",
+      "size": 8532
+    },
+    {
+      "path": "vendor/gamerhack/900v3/ps4debug.bin",
+      "sha256": "e893641114b797db686354d75ef4d9abd0fad1db0a814be9598c08b3a005f993",
+      "size": 53056
+    },
+    {
+      "path": "vendor/gamerhack/900v3/relocator.js",
+      "sha256": "1721e8361118338d74965f8be752aa37951a75bbf1c086ea698a9467bc5f36e7",
+      "size": 2908
+    },
+    {
+      "path": "vendor/gamerhack/900v3/restore.bin",
+      "sha256": "3598631a9c71236a79c7e77c1df45c6f8714e1d6182bca5ab4e99dc9dc9ee4f6",
+      "size": 9148
+    },
+    {
+      "path": "vendor/gamerhack/900v3/rif-renamer.bin",
+      "sha256": "43e4e3036bdb2b00a1d86048c2648bf9fa441cc7fe41573e3c144c4ef420e4b3",
+      "size": 7884
+    },
+    {
+      "path": "vendor/gamerhack/900v3/rop.js",
+      "sha256": "7ad578ad145b54b33cd5c8a2f7a23837dfe1343ed0ce444041770fac09b80b29",
+      "size": 5331
+    },
+    {
+      "path": "vendor/gamerhack/900v3/rop2.js",
+      "sha256": "4dda01322f60a9157f6ece500d660f2d9d4b070ba316514b3d754a35abfa4679",
+      "size": 3327
+    },
+    {
+      "path": "vendor/gamerhack/900v3/southbridge.bin",
+      "sha256": "c4d7c54ea588381c4471348d3d306f492c47dc211c2612d628cd71da32eee75e",
+      "size": 1680
+    },
+    {
+      "path": "vendor/gamerhack/900v3/syscalls.js",
+      "sha256": "9077499d210f32878a6cc2aebe331a49bf6d72e8025a15dad961f78e10181a79",
+      "size": 13826
+    },
+    {
+      "path": "vendor/gamerhack/900v3/syscalls2.js",
+      "sha256": "94cabf4e57a82f034758390c03de59be26fc3054d6735c75c15e375cd69affee",
+      "size": 11377
+    },
+    {
+      "path": "vendor/gamerhack/900v3/todex.bin",
+      "sha256": "9705cf2f6013d96ec6ea3d39b623773e5af2b45ce813497aca2894a35a31b7a8",
+      "size": 8500
+    },
+    {
+      "path": "vendor/gamerhack/900v3/webactivator.html",
+      "sha256": "2a60e66679e0f4e9afd4530c628dde7444ab42a187cb6df4a1809ec6d3a33c32",
+      "size": 1046
+    },
+    {
+      "path": "vendor/gamerhack/900v3/webkit.js",
+      "sha256": "b65eb763b9430a3faf9a698b3e9a723e37fa51632317e4bd2c786e0733307e62",
+      "size": 15025
+    },
+    {
+      "path": "vendor/gamerhack/900v3/webrte.bin",
+      "sha256": "0279afca13ba935d710e4a78919eaf64a6c5227c7017d58e807693597f7f0796",
+      "size": 41024
+    },
+    {
+      "path": "vendor/gamerhack/900v3/WildeModz-1.32.bin",
+      "sha256": "007f3418bee3f2fe27034262a84a148a9f8c0577e517133286a19c4bf18d55eb",
+      "size": 1080016
+    },
+    {
+      "path": "vendor/gamerhack/900v3/WildeModz-1.33.bin",
+      "sha256": "d9ebf4cdf4150ac59865d7744713dfc99037ad75b08ea7551c5bcb3e992972a9",
+      "size": 1080016
+    },
+    {
+      "path": "vendor/gamerhack/900v3/WildeModz-1.38.bin",
+      "sha256": "e82fe24709f9155bc1c77ffa1b2318bee03b5ec7bb4d120b7aadf21b48f6adf8",
+      "size": 593216
+    },
+    {
+      "path": "vendor/gamerhack/900v3/WildeModz-1.46.bin",
+      "sha256": "9a8bc055f89a056b12b5bfd56c8b4b55f4f66025e9bea48475eae38b25f1a45b",
+      "size": 2610904
+    },
+    {
+      "path": "vendor/gamerhack/900v3/WildeModz-1.47.bin",
+      "sha256": "beac207b97220a57f22c9a7ec9064e6fdb2ef98ec33852b2ee1c5f7a1717010f",
+      "size": 2819184
+    },
+    {
+      "path": "vendor/gamerhack/btc.jpg",
+      "sha256": "ec09e963b908f47e456ac6fc10d368616663b16d8f49fd6a4f3e64845d931b9c",
+      "size": 78144
+    },
+    {
+      "path": "vendor/gamerhack/COPYING-PSFree",
+      "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+      "size": 34523
+    },
+    {
+      "path": "vendor/gamerhack/eth.jpg",
+      "sha256": "0732d7ecf41f57208257ba529fa3f5b312b23332f1f8913c21f388837e1383c5",
+      "size": 77259
+    },
+    {
+      "path": "vendor/gamerhack/g2all/505/exploit.js",
+      "sha256": "dc68f1effb2e92a4c33c3d942fcec3f62ad8df1ca7553301db904e40a689dce4",
+      "size": 887614
+    },
+    {
+      "path": "vendor/gamerhack/g2all/505.manifest",
+      "sha256": "8337e3b1c2e2334d1496eb025472e5c731f1554cd366e594d37c8fae25050887",
+      "size": 122
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/alert.js",
+      "sha256": "f3c02a75f743827aa744af21855d924ffc4f0b021ed63cd1e2ab41c79dbbf515",
+      "size": 1739
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/config.js",
+      "sha256": "82d8319fbe5191d722ff299b23acd1c1338f6068c5e97a013f224fda29d6788c",
+      "size": 2693
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/kpatch/700.elf",
+      "sha256": "7fe2f30c64e2acaf41924e385e81b4d1bdb6dd7a217faf91cdb580fd82cde851",
+      "size": 6208
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/kpatch/750.elf",
+      "sha256": "1f46037bd232cb40ce7f85100350af86acda6aed92ffa0cfaf18fa15b924691b",
+      "size": 6384
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/kpatch/800.elf",
+      "sha256": "8e766df1049d302c01a9c538a92303a3a78f335e007f1139f44a75cc1d8f6fac",
+      "size": 6368
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/kpatch/850.elf",
+      "sha256": "313b9048b41f1110bc2c7128059cb009d310bb4f014739b3c10809b60d395f03",
+      "size": 6368
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/lapse/700.js",
+      "sha256": "eff0095d4650c7e539c4a8fe6143003787f241f37aba8c767255687efd03ce0b",
+      "size": 1212
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/lapse/750.js",
+      "sha256": "91ef601d734a37fdcd98d36dbd1c555c577832e5558d2037b160151bc42e39f3",
+      "size": 1200
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/lapse/751.js",
+      "sha256": "bea1d3d29057fcd73ec41106a6238718c7053604c235145e5528a9e758cd93ae",
+      "size": 1447
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/lapse/800.js",
+      "sha256": "18ea552e6b61d59347f6d0aacae07e650cddc6b88ce420d8ac461138a9e0f401",
+      "size": 1212
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/lapse/850.js",
+      "sha256": "c6cfea90664d838919db7f31f3378ed9fe2b44ab132d23d0708789eb8c614fe3",
+      "size": 1199
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/lapse/852.js",
+      "sha256": "3d2860ac21c869692f5fc0795b3cf2f25afed74717565da1dec42b52bab44d25",
+      "size": 1199
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/lapse.js",
+      "sha256": "bef0d5cabc51c1bc152ae0cbee43732aab54b2bbe50d41e69870954a448e036c",
+      "size": 58785
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/chain.js",
+      "sha256": "9acfd8c6ea563ad4cd5949d608d4eb34fb7f96c9a6ed3a8586f4b8afef3281d3",
+      "size": 15752
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/int64.js",
+      "sha256": "7d6a7ccf20353fd1717462ac0800217aa1c63456e86cfedd9c9f1be86207b51f",
+      "size": 3297
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/mem.js",
+      "sha256": "f170cb6fd5e720a96d1ccef6adcb353c33cea89b0f97593cdda0868be1396a4d",
+      "size": 11290
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/memtools.js",
+      "sha256": "2a5dc16c9e2a1754e66ff8d5ade15cf1b1c78c8b067291eef94eca33ca1ca274",
+      "size": 8568
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/offset.js",
+      "sha256": "b200bccbc771a57f12b2747c42f9a34fa5f4430be076227c89893102218b8480",
+      "size": 1992
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/rw.js",
+      "sha256": "83ffcb2c59d7bc73a27eaec0a31a44c11cb84c7cd45a557722fb84c578e77424",
+      "size": 4235
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/utils.js",
+      "sha256": "1ee03a3d7c6cbfd53318846542fa74ea578625b560d6bcf5c13e8f6f56afc675",
+      "size": 5024
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/module/view.js",
+      "sha256": "97e8728b9d128021827b8855eb0e3be2c041d6bce9906c5336820c666f5e0257",
+      "size": 6532
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/psfree.js",
+      "sha256": "efa1b8e2ee49df0cd4569fd33a784a7185ca029c70b76ed4b05998b1a4179ea1",
+      "size": 26632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/rop/700.js",
+      "sha256": "b2a1628c404893272420b80856b1e680a88f2eaeb571f485a4d9bbf316592f18",
+      "size": 8607
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/rop/750.js",
+      "sha256": "ef2e84a689894a781b1f206b2712050b5ac5bf4394430bd708a7f1779b38cbd8",
+      "size": 8607
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/rop/800.js",
+      "sha256": "03013d3f77044d185604951798c32f4a37f64b0a70bc070ac322e0f982928289",
+      "size": 8605
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/rop/850.js",
+      "sha256": "e634347428d65115df820e58f9a181a3d7fe9e2d6fb0754295959ad7a2a5e4fc",
+      "size": 8599
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700/send.js",
+      "sha256": "b249e4ae2dc4282d51a6749c8029bd777034279d3aa5ce8fdba85344a9078eb2",
+      "size": 7551
+    },
+    {
+      "path": "vendor/gamerhack/g2all/700.manifest",
+      "sha256": "6014f5d2c683672bf4ff5fe824087a008580f03500227199358e159eb4df6001",
+      "size": 595
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/alert.js",
+      "sha256": "33ad68259f2edad046b7bc923809cd84877b33596599e3545aa6655cfa023dcd",
+      "size": 1861
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/config.js",
+      "sha256": "82d8319fbe5191d722ff299b23acd1c1338f6068c5e97a013f224fda29d6788c",
+      "size": 2693
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/kpatch/900.elf",
+      "sha256": "650033d4b7e5686624a325e29e1de50efcdbbd164a4862bf2be7a909c8e8b2e2",
+      "size": 6368
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/kpatch/903.elf",
+      "sha256": "5f34a7c7f026310cbf63eddc3fe515d8cee99420c9d1d9b086ee01645f86a3bc",
+      "size": 6368
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/kpatch/950.elf",
+      "sha256": "50aa27d6fbde784ec41e7c24ebf928a7286e273bb5ab03e6c47e7cd70e56d2fb",
+      "size": 6368
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/lapse/900.js",
+      "sha256": "e84fcf5f1ea13ba275913a2e5ecb6054eec83bdcb678dc21ccebc6a6ee418eeb",
+      "size": 1240
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/lapse/903.js",
+      "sha256": "8ab0fe72e961fb9fa0b754608446908a7c58180527887821fd883c1bf2c2966a",
+      "size": 1246
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/lapse/950.js",
+      "sha256": "9979052c6b8e83d5c68cda6f236abec1c5fec6fc24ee4125f781e65d360b32ee",
+      "size": 1255
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/lapse.js",
+      "sha256": "3c2ddccd3a198a77d94e1fbeba5da0b36b9e8c50ad8dcac24aeff080bcf1a24d",
+      "size": 59960
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/chain.js",
+      "sha256": "f3d0b808407c0a97b0a0b03cecdd815f28a5b6a927c83dff0dff8a565ce38015",
+      "size": 16892
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/constants.js",
+      "sha256": "d3e8967c310d3bcc490c703dde066370fc63787ef113e7622b11911acd1cabf0",
+      "size": 793
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/int64.js",
+      "sha256": "d608807f0808efd9dca0fa930ecb1939af8a9c2b384a4c5c961b4c461a3e0948",
+      "size": 3693
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/mem.js",
+      "sha256": "e7a5070fe7039aaf5c18d600ede905a32310d4ee027c4cd38bb3ee502e50c6a3",
+      "size": 20029
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/memtools.js",
+      "sha256": "3a3f4e57953364f71f9596bb4596790545a73fb77a03fd63b54f1e88a2c40492",
+      "size": 9197
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/offset.js",
+      "sha256": "230d90716e8f36d9d804a5b945e8980a8132f6975f45a40e83d05eab0864c135",
+      "size": 1993
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/rw.js",
+      "sha256": "568c54e54a969a5c228a25d5203258f1f3dd00446fe56a1e74f888fb7098938f",
+      "size": 4244
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/utils.js",
+      "sha256": "1ee03a3d7c6cbfd53318846542fa74ea578625b560d6bcf5c13e8f6f56afc675",
+      "size": 5024
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/module/view.js",
+      "sha256": "9c16fddaec46be33ed6ddb4566d6c8544abaa9662dff74a31dee7465817f640d",
+      "size": 6973
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/psfree.js",
+      "sha256": "5afc740a52f497ddc27aaffcde95ad7264c56129d389a780c6f0532c10d1668f",
+      "size": 27311
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/rop/900.js",
+      "sha256": "a3247908938b1e849e8cc326d93935564886f9a1fc7fea8670769649f287c95b",
+      "size": 11454
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/rop/950.js",
+      "sha256": "8383b50861ec7e500fda16cff5b8bf8141cc6d1fb01454c0492be7ede3c2172f",
+      "size": 11727
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900/send.js",
+      "sha256": "7123c0b25f6571be64f85c91dbc49b5b7d7a0dfc8e0e465aeed6e71373ba86d0",
+      "size": 7866
+    },
+    {
+      "path": "vendor/gamerhack/g2all/900.manifest",
+      "sha256": "83bf3d73d3980303cfd63ee318967f39f06f1d1fa5c00239dcd66a6f2c034e5a",
+      "size": 514
+    },
+    {
+      "path": "vendor/gamerhack/g2all/cache505.html",
+      "sha256": "3d3a7de6b61568baeef93d894a03cb608b610e440c15e4b089f45706b5d5587d",
+      "size": 1491
+    },
+    {
+      "path": "vendor/gamerhack/g2all/cache700.html",
+      "sha256": "9e79dc676ecdab508bcd3bf4dca041627ea2b6316733978b7c711038feb19239",
+      "size": 1491
+    },
+    {
+      "path": "vendor/gamerhack/g2all/cache900.html",
+      "sha256": "a50342b9a0d3a7db14b3264c062974193bc3837ff434c023377bc207939975ca",
+      "size": 1491
+    },
+    {
+      "path": "vendor/gamerhack/g2all/cachecss.html",
+      "sha256": "6e09c4b00c624f277517c3d5f5696e9a91f463bdb14d2da9ad2c80799fd2977a",
+      "size": 1491
+    },
+    {
+      "path": "vendor/gamerhack/g2all/cacheslopkit.html",
+      "sha256": "34535af9fb3eb9cabe3e46b335d22dd17e602e399ea6892cd52b163d6e85724b",
+      "size": 1495
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/lapse.js",
+      "sha256": "5ce41c0f91da7fbf76711a514ab46d391ff2e9ab0e653aa0929e140a9159a967",
+      "size": 36797
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/loader.js",
+      "sha256": "6f104e6241c0857ff9cba7b2c299ef443e95039bf5b534dd17308db6dfe78afe",
+      "size": 1909
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/main.js",
+      "sha256": "de69f2d44d6f38067ad5442d9c6d8ee4471aae2116fdb97e1883eb16f893984d",
+      "size": 3297
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/misc.js",
+      "sha256": "2f4e704e03358df2e9b4dfd356124bc582cf9683d6abba792e86b0c27bda0305",
+      "size": 12074
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/ps4/constants.js",
+      "sha256": "c832a6f7ba08b729a291a5807caf5f2caffac52823e32ca8bca6dbba3252e329",
+      "size": 24540
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/ps4/kernel.js",
+      "sha256": "757829e5e5195acc112eb8001bf77200b9b00e59b54482f4f72145d6435c8fb2",
+      "size": 18476
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/ps4/patches/1000.bin",
+      "sha256": "954ff624c9c92ab991c3e92a93fde1583da291dfd9674e245354c7efdcd07cf8",
+      "size": 589
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/ps4/patches/1050.bin",
+      "sha256": "fbf815d2d47a707cf788815ef11558fa6d8f718e628d508e8540417083c55e1f",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/ps4/patches/1100.bin",
+      "sha256": "15497a2b748dafd49bfb89c51ed048d0c5ba3c5092c5254da46dd4443f80983b",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/ps4/patches/1102.bin",
+      "sha256": "4634f7bcdaeea7a48307a6b0c2f0575dc131d4fcf15138c6678f18b4f19058fd",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/ps4/userland.js",
+      "sha256": "79c97608a9c9a6440c233b3dd95534de1603a31bc3350ad1773162030c680ea1",
+      "size": 38866
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/worker.js",
+      "sha256": "91c19720247a54dd881bcf6d5aee2b05e950938af7a835c0f0e52d7d870e6e09",
+      "size": 1762
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css/workers.js",
+      "sha256": "8d8bec3902406ce32a17880133ffe3e4c563c73888cf4d773e08aac8cc7e003f",
+      "size": 3429
+    },
+    {
+      "path": "vendor/gamerhack/g2all/css.manifest",
+      "sha256": "21771ff72ff2f24642105079e1427db3903af869819743ea67ee26c1611c0a55",
+      "size": 352
+    },
+    {
+      "path": "vendor/gamerhack/g2all/goldhen_2.4b18.14.bin",
+      "sha256": "c5480587d99efc2e3cc132352d9b7cf052dd3068280f1686e7fbb37d57e9ba8b",
+      "size": 298776
+    },
+    {
+      "path": "vendor/gamerhack/g2all/index.html",
+      "sha256": "fda2d43c21d1b3fec7865d03db87d565a1e8f20b0c5680cedbdc8e5676d6f093",
+      "size": 4496
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/afterglow.js",
+      "sha256": "02df2d979c3fa9b32100fc05d3cdcc36f68791e2ad1fdf24e96682a723e36604",
+      "size": 87730
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/chain_lapse.js",
+      "sha256": "e94bdea8527c6b7fa7186cd2e0ce0aed895e69b7c056121749ef6cd84b2c00ca",
+      "size": 213139
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/chain_poops.js",
+      "sha256": "1b08eb5e10923b9642b3b89723af6ee7bef3f622ea8782ebde9dbac199ad18cc",
+      "size": 138558
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/core.js",
+      "sha256": "e2e708ac5358f712c3d074ca90bf86f53967aebfa410239d19a132f13aa6233f",
+      "size": 44605
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/int64.js",
+      "sha256": "15dd1fc30f65c6d62ffe44ffd71c8b1c3357d55d0d5eb8255b78c3d87fa5fd25",
+      "size": 2901
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/jb.js",
+      "sha256": "c0fd7f10b489bd2b552d955b20e9ba98f722d02b721661330bd8eb478e0c1bc0",
+      "size": 119165
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/jb2.js",
+      "sha256": "de0620846db6b74d5b838707c4c0f1e12585f1b61b10e66e80ee14919291dcfe",
+      "size": 36144
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/mem.js",
+      "sha256": "792021d168a93499d9ec5605f8b5e93941b77c29dc0d8a3ef63ae1ffbc517dcd",
+      "size": 28974
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1150.bin",
+      "sha256": "d4e3a514e462b973842e634eba6c90136dbfd864a208f8c39c229055e5f2e1f9",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1200.bin",
+      "sha256": "87f1d40aea8fbf3adee7b8b5599d90c9d868436c15a498f2dce6bf5d96ae4d27",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1250.bin",
+      "sha256": "5baaf0bb2663064db1eb1bfd976bc3aa5087ab7f0963648cb6fcb216adce714d",
+      "size": 314
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1300.bin",
+      "sha256": "be70930d96c40b8d7ba03a57e2ea5c834b606fb74ed118756b4dea7fffaa1d57",
+      "size": 314
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1302.bin",
+      "sha256": "235a051f5a066daa546253de6eb61c1223a2682cb34edd916fc4565bb2c02fc6",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1350.bin",
+      "sha256": "f771c196d012496c01f575674e95a74d7b00b7c1bc22325c7321f3ab6eb77b56",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1352.bin",
+      "sha256": "adfb9771904f71cd1f5a82cbded8ac46c7ffeb3df974579535cf711904ac347e",
+      "size": 632
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/patches/1400.bin",
+      "sha256": "615f275b96831cc04173757db39e93f0d27b52888976af2a6444604aa8ac5dbf",
+      "size": 641
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/ps4_offsets.js",
+      "sha256": "41312c4785f7bd9656b44db4a8a0d37d65fa508b1dc3b4b3f0c6d0c8aa39837f",
+      "size": 17732
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit/rpc_worker.js",
+      "sha256": "0249cf021d31fd0711cd30c5a26f1dbd2fd3b140785fdf2b6777539ca5b5de13",
+      "size": 5581
+    },
+    {
+      "path": "vendor/gamerhack/g2all/slopkit.manifest",
+      "sha256": "6919c3f1287e5e77cc59a66f82a850149bbb982a8f127648fa201b5130025f7f",
+      "size": 535
+    },
+    {
+      "path": "vendor/gamerhack/img.jpg",
+      "sha256": "9002befdc689a4e29bd7988a2a815aa94ec01072f38c6b172fea9d78c02a0451",
+      "size": 93467
+    },
+    {
+      "path": "vendor/gamerhack/index.html",
+      "sha256": "ac8aec208ddd806b137dfe84c99043909feee2a7816ccb018cc880395f72204e",
+      "size": 3283
+    },
+    {
+      "path": "vendor/gamerhack/README.md",
+      "sha256": "f076235c18794fffd0faecd35069c9b43ef101750a1efc3beee5b39b1dfd1564",
+      "size": 392
+    },
+    {
+      "path": "vendor/gamerhack/restore/505/exploit.js",
+      "sha256": "9cca5fb892770135c45b5391d7dad64b3939044d3ea36d8db90d2f088ae30dc6",
+      "size": 39662
+    },
+    {
+      "path": "vendor/gamerhack/restore/505/index.html",
+      "sha256": "d512dbb67f5f59c818ee725e275f5f6166eb85dcf7ba8791163ebd2b9597123d",
+      "size": 848320
+    },
+    {
+      "path": "vendor/gamerhack/restore/505/payload.bin",
+      "sha256": "6129d737a68dc76dd004412427d9b5b78fabb2bec166bf1625948e08c192d40b",
+      "size": 128156
+    },
+    {
+      "path": "vendor/gamerhack/restore/672/exp_loader.js",
+      "sha256": "46ef0c9dbbdfdebe13fdec51494ee1fbf4a95ca13399645504af27d8361b1eca",
+      "size": 501357
+    },
+    {
+      "path": "vendor/gamerhack/restore/672/index.html",
+      "sha256": "6aa69ad4e6501c59f85c77019d3fdcd401704757b048ccda9065efccaccaf42b",
+      "size": 17550
+    },
+    {
+      "path": "vendor/gamerhack/restore/672/jb.js",
+      "sha256": "ad1701dc09b1ca1d8fc57aaae30098f1c14122b73c922bf0cec90413a3ea17e3",
+      "size": 800803
+    },
+    {
+      "path": "vendor/gamerhack/restore/672/payload.bin",
+      "sha256": "dcd41b1a797bb527e961dff412f8715af8ff8bfb4959857ddbb7cf787dd413d1",
+      "size": 128140
+    },
+    {
+      "path": "vendor/gamerhack/restore/672goldhen/exp_loader.js",
+      "sha256": "46ef0c9dbbdfdebe13fdec51494ee1fbf4a95ca13399645504af27d8361b1eca",
+      "size": 501357
+    },
+    {
+      "path": "vendor/gamerhack/restore/672goldhen/index.html",
+      "sha256": "6aa69ad4e6501c59f85c77019d3fdcd401704757b048ccda9065efccaccaf42b",
+      "size": 17550
+    },
+    {
+      "path": "vendor/gamerhack/restore/672goldhen/jb.js",
+      "sha256": "ad1701dc09b1ca1d8fc57aaae30098f1c14122b73c922bf0cec90413a3ea17e3",
+      "size": 800803
+    },
+    {
+      "path": "vendor/gamerhack/restore/672goldhen/payload.bin",
+      "sha256": "2dd64862939852f4e047f6aef5e79e350b5ed09ad37828096709c95db6951b00",
+      "size": 128156
+    },
+    {
+      "path": "vendor/gamerhack/restore/900goldhen/index.html",
+      "sha256": "5ba0b86df35428cd3692d254a2c14e6b935de669b798609770c7b5574bc45978",
+      "size": 1748
+    },
+    {
+      "path": "vendor/gamerhack/restore/900goldhen/int64.js",
+      "sha256": "075052a1393e61b19a1ef5acf685bb41fa65d5f2bbd27a09932e1fe10bdc8420",
+      "size": 2388
+    },
+    {
+      "path": "vendor/gamerhack/restore/900goldhen/kexploit.js",
+      "sha256": "f03566d655bf29c24c1858b92368456ab0133c3fd26cbe7ddebfa9bb59e050ad",
+      "size": 24931
+    },
+    {
+      "path": "vendor/gamerhack/restore/900goldhen/payload.bin",
+      "sha256": "d0e7be77d43c7754af053f766bcfbde4537e5f610b4a02b2c1e6f7446aab0342",
+      "size": 128140
+    },
+    {
+      "path": "vendor/gamerhack/restore/900goldhen/rop.js",
+      "sha256": "7ad578ad145b54b33cd5c8a2f7a23837dfe1343ed0ce444041770fac09b80b29",
+      "size": 5331
+    },
+    {
+      "path": "vendor/gamerhack/restore/900goldhen/webkit.js",
+      "sha256": "b65eb763b9430a3faf9a698b3e9a723e37fa51632317e4bd2c786e0733307e62",
+      "size": 15025
+    },
+    {
+      "path": "vendor/gamerhack/restore/900v3/index.html",
+      "sha256": "5ba0b86df35428cd3692d254a2c14e6b935de669b798609770c7b5574bc45978",
+      "size": 1748
+    },
+    {
+      "path": "vendor/gamerhack/restore/900v3/int64.js",
+      "sha256": "075052a1393e61b19a1ef5acf685bb41fa65d5f2bbd27a09932e1fe10bdc8420",
+      "size": 2388
+    },
+    {
+      "path": "vendor/gamerhack/restore/900v3/kexploit.js",
+      "sha256": "f03566d655bf29c24c1858b92368456ab0133c3fd26cbe7ddebfa9bb59e050ad",
+      "size": 24931
+    },
+    {
+      "path": "vendor/gamerhack/restore/900v3/payload.bin",
+      "sha256": "23c497b81bdb7bb3db3183bd403c548e1ed20ed851c16f4999f9d4d5f2941be9",
+      "size": 128140
+    },
+    {
+      "path": "vendor/gamerhack/restore/900v3/rop.js",
+      "sha256": "7ad578ad145b54b33cd5c8a2f7a23837dfe1343ed0ce444041770fac09b80b29",
+      "size": 5331
+    },
+    {
+      "path": "vendor/gamerhack/restore/900v3/webkit.js",
+      "sha256": "b65eb763b9430a3faf9a698b3e9a723e37fa51632317e4bd2c786e0733307e62",
+      "size": 15025
+    },
+    {
+      "path": "vendor/gamerhack/restore/index.html",
+      "sha256": "abeb53d886d5dee20d4639799cf2be32efa8cf7679adfea49882b1bec01dd9e1",
+      "size": 1715
+    },
+    {
+      "path": "vendor/gamerhack/style.css",
+      "sha256": "ed44e2a8602145e49f636d461ad3e4ffb7397a7634883a7e650752b6c0a485f1",
+      "size": 1375
+    },
+    {
+      "path": "vendor/NOTICE.md",
+      "sha256": "aee47710cdde05453f89e24cea6e8974b9dd39811dcfa630bc13b3b08ae53de2",
+      "size": 3233
+    },
+    {
+      "path": "vendor/ps3hen/4.80/PS3HEN.p3t",
+      "sha256": "0a4f2b2f8d3c61f81cf28cc2a76720a1bb63e7c92a13efbb20a5511836eec122",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.81/PS3HEN.p3t",
+      "sha256": "dc6e11ade98c45c6966580204ba8894f8b251f63d14b395f2ee44a390c7a2aa1",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.82/PS3HEN.p3t",
+      "sha256": "c9d0b31a8e162ccfc37a78a109a532df531f3a64b45df6a213900bb3aee67308",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.82D/PS3HEN.p3t",
+      "sha256": "6cf006c5a63b1742ed707f8e5a0d632bf9c16875beb81f682f2fe393e4d8ae3c",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.83/PS3HEN.p3t",
+      "sha256": "c74e826a10f82ff5e6fdd54c0acac88fed8366b09e2cb327e96fd3be0fa4d581",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.84/PS3HEN.p3t",
+      "sha256": "9e087b1f3e231d55a17f5c21d4780b376317ab5706fb2213700d4d56f176c198",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.84D/PS3HEN.p3t",
+      "sha256": "43895bd3309152ad4f1fd8ffd20a39db5bb39b14ce65bcf1e3c4e81768dab264",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.85/PS3HEN.p3t",
+      "sha256": "b05c9879c77cebadd98c5490137b66258450cb2f72abe477beaa7cdc1ad224b9",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.86/PS3HEN.p3t",
+      "sha256": "357732470ca8aa3b90fb24f43e2310acda27a4399a7576f7868aa519b3b29ed3",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.87/PS3HEN.p3t",
+      "sha256": "872eba5bc119c53527fc66249d3bf41c4beaee487267a8ef4bb67237d62ab9f1",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.88/PS3HEN.p3t",
+      "sha256": "c67b34fb29b9bb170a7797216d1235da984e296915e678e61688badfdc2e67fc",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.89/PS3HEN.p3t",
+      "sha256": "f143b05fd0c0d4c6e3e5b90607f6e1f2d8e54c88f00db352a9763507e14a322d",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.90/PS3HEN.p3t",
+      "sha256": "7262535eca4b375e21ea595ab7f8fcedbcf717bb7f93186c02570dd3b588cb5e",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.91/PS3HEN.p3t",
+      "sha256": "15b5c13635705ac36b2c7355ec346534448c862fa05239c3abac5ca8a2141217",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.92/PS3HEN.p3t",
+      "sha256": "4be95abbd7e17139a8b4f53a94d5295e2fb63ff508030157627125e79b1b0e18",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/4.93/PS3HEN.p3t",
+      "sha256": "4d67551fc0bb28210ce917c554a1222049616cd26e075ebb06d3a1f6f0e9d332",
+      "size": 1114112
+    },
+    {
+      "path": "vendor/ps3hen/index.html",
+      "sha256": "bdf3308c2462f89c3d541a937f4b5184e136bc854737c5b5c14a53493a29f8e1",
+      "size": 7235
+    },
+    {
+      "path": "vendor/ps3hen/LICENSE.txt",
+      "sha256": "a8cd1f3e38d8da0f6d854b3fc75f45fe5efb1558285e6f74aaf00584245c440c",
+      "size": 35792
+    },
+    {
+      "path": "vendor/ps3hen/ps3hen_v100.js",
+      "sha256": "3b73df02da6b0bf45bafc704de8072c25f28f385ab0a590a02c7cc2fdeef7fd7",
+      "size": 108824
+    },
+    {
+      "path": "vendor/ps3hen/UPSTREAM-README.md",
+      "sha256": "01fe0045bdd4986d507357c434d5eda1e265d37fa70a9ecaf0995eb304dfbdd4",
+      "size": 25451
+    },
+    {
+      "path": "vendor/ps5/cache.appcache",
+      "sha256": "1164fb914cbcfe2b452a95f033cbdf9e907ee3b77689463b1d89195e5191ce98",
+      "size": 4868
+    },
+    {
+      "path": "vendor/ps5/custom_host_stuff.js",
+      "sha256": "dae029163b536d99fc07b0de536240afbe96bf943844ef8b5c1c35cdd558fafd",
+      "size": 10098
+    },
+    {
+      "path": "vendor/ps5/etaHEN-README.md",
+      "sha256": "d2fce91f1e8d3b2dc20f788c69ff280ae3727de0e782c670597940e0b209e3df",
+      "size": 10995
+    },
+    {
+      "path": "vendor/ps5/index.html",
+      "sha256": "19d62c436fb3b2b327ca57fce8bcb8439bac8f6c74476b93dd5a83d8b8e29b4f",
+      "size": 3799
+    },
+    {
+      "path": "vendor/ps5/int64.js",
+      "sha256": "cb6215a6b6a88bd554867962ae87743c3537f2b2ef1a9db2d2c5107a03e4d8ab",
+      "size": 3633
+    },
+    {
+      "path": "vendor/ps5/LICENSE",
+      "sha256": "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6",
+      "size": 1235
+    },
+    {
+      "path": "vendor/ps5/LICENSE-elfldr",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
+      "path": "vendor/ps5/LICENSE-etaHEN",
+      "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809",
+      "size": 35823
+    },
+    {
+      "path": "vendor/ps5/main.css",
+      "sha256": "3edf223b147849f90bb45c8dbe61a4eaa76b0ceb5e3f18a6f390850089b7e662",
+      "size": 6508
+    },
+    {
+      "path": "vendor/ps5/main.js",
+      "sha256": "5ac4a746a363e9ee876dcb0cb8072d01d39b4fe2afdc611cd39bc4395ed3073f",
+      "size": 50972
+    },
+    {
+      "path": "vendor/ps5/offsets/1.00.js",
+      "sha256": "20a7dabf5d816230ef3cb32c51e3995a2fa9588645eaac335678f74f690a98d4",
+      "size": 15875
+    },
+    {
+      "path": "vendor/ps5/offsets/1.01.js",
+      "sha256": "b41b107632d45fa5f2606b076b7b0f37f1afb7aede7b2ee7515fffa371910aa0",
+      "size": 15875
+    },
+    {
+      "path": "vendor/ps5/offsets/1.02.js",
+      "sha256": "2c024b82844fdec9381e18817fb242dca68cfd5041e8ad308b3963aab48432d9",
+      "size": 15926
+    },
+    {
+      "path": "vendor/ps5/offsets/1.05.js",
+      "sha256": "99acca237df00f27a1d2dfab198cf6c0fcd6180ee3a48e5da20603f965aceb6d",
+      "size": 15597
+    },
+    {
+      "path": "vendor/ps5/offsets/1.10.js",
+      "sha256": "e7190b6f99ccc1b6b66424e79ca2ca8adbdc9ec5849c97693a10ab77a2157d5f",
+      "size": 15597
+    },
+    {
+      "path": "vendor/ps5/offsets/1.11.js",
+      "sha256": "2a84e17a11e06c44ee252c91e28eae6e9c326b4b875fd297c0f8ba559f0481b4",
+      "size": 15596
+    },
+    {
+      "path": "vendor/ps5/offsets/1.12.js",
+      "sha256": "e104f5412d063b1467347ce4d330405b6fd36391cb08d2c0a1646417d2f097f9",
+      "size": 15596
+    },
+    {
+      "path": "vendor/ps5/offsets/1.13.js",
+      "sha256": "5374f7799483f2ff351a8138674873d285b78f2ffe150ecae0b15230be0631ce",
+      "size": 15596
+    },
+    {
+      "path": "vendor/ps5/offsets/1.14.js",
+      "sha256": "8a9df658e921c2eb5d632ecb7e36075afad15be13894e949397b954a59c9276e",
+      "size": 15596
+    },
+    {
+      "path": "vendor/ps5/offsets/2.00.js",
+      "sha256": "f2ecb5a0550c2d9199697d4108a10c5a0b43669e290f4d830a0318b2e8e9b0e2",
+      "size": 16022
+    },
+    {
+      "path": "vendor/ps5/offsets/2.20.js",
+      "sha256": "bfe19681348fbdaa6c1d526201d8f2788b6476951ada9e1a086da876b675abc4",
+      "size": 15562
+    },
+    {
+      "path": "vendor/ps5/offsets/2.25.js",
+      "sha256": "4956bdae7a6d1ce46c6621a9b243df3df267e3811f0dee4bf804600035dd4572",
+      "size": 15562
+    },
+    {
+      "path": "vendor/ps5/offsets/2.26.js",
+      "sha256": "4956bdae7a6d1ce46c6621a9b243df3df267e3811f0dee4bf804600035dd4572",
+      "size": 15562
+    },
+    {
+      "path": "vendor/ps5/offsets/2.30.js",
+      "sha256": "280e7b335d6a4cb9783beb14c9934a3bc9b1bbfb9cc6f18f854a8d94d5eadc3a",
+      "size": 15555
+    },
+    {
+      "path": "vendor/ps5/offsets/2.50.js",
+      "sha256": "15388323dc67175cc7fa828c3f0b22bcf6f81c90cf4879306fe70a5a9c5be8ab",
+      "size": 15555
+    },
+    {
+      "path": "vendor/ps5/offsets/2.70.js",
+      "sha256": "4721dea54cffb94ea61bb9de06ef2b1543420e8bb7ec61662aa78d3c1fc56295",
+      "size": 16024
+    },
+    {
+      "path": "vendor/ps5/offsets/3.00.js",
+      "sha256": "4067fcc068f354aba2af1aa324c5d16da597f6af5610406756d52fd93adb8522",
+      "size": 15571
+    },
+    {
+      "path": "vendor/ps5/offsets/3.10.js",
+      "sha256": "9e773cd8a89e51dd9a6760d1732afe1b7f6ca7da97ba8c9d707af3f8c0643708",
+      "size": 15595
+    },
+    {
+      "path": "vendor/ps5/offsets/3.20.js",
+      "sha256": "598b10b37ab7c3c6641c78bd686a9e8634ed89fdeec16970a82fa705cd4f4417",
+      "size": 15571
+    },
+    {
+      "path": "vendor/ps5/offsets/3.21.js",
+      "sha256": "51af8be1a4af1a415b6cf5ad532cdc871881586414e793e8eb6e68d802f5929b",
+      "size": 15580
+    },
+    {
+      "path": "vendor/ps5/offsets/4.00.js",
+      "sha256": "fe900cae22b6acbc399e70fec3b3abe5474c80f42c103bae59133d81604fcd5d",
+      "size": 15581
+    },
+    {
+      "path": "vendor/ps5/offsets/4.02.js",
+      "sha256": "c81612da8a6ee4ce6a396af6e6e6e6d4c0e420ece732042093a394b8131095f8",
+      "size": 15571
+    },
+    {
+      "path": "vendor/ps5/offsets/4.03.js",
+      "sha256": "1609b01fd346015df2d9072b945bd06be0b187194a781122b028dcc9319baa89",
+      "size": 15649
+    },
+    {
+      "path": "vendor/ps5/offsets/4.50.js",
+      "sha256": "244b95078ea24548719f290327c1f441e15fe3b2592cc0e65dff1dcdbc6741da",
+      "size": 15571
+    },
+    {
+      "path": "vendor/ps5/offsets/4.51.js",
+      "sha256": "5dd1a3fd6146d1b1da1c12c373717a01febb9dadea40c60e66b231c7c245db39",
+      "size": 15571
+    },
+    {
+      "path": "vendor/ps5/offsets/5.00.js",
+      "sha256": "65a62d6d57c173d7770572d72a748450344f6599963e72167f9fb0065617dad8",
+      "size": 15728
+    },
+    {
+      "path": "vendor/ps5/offsets/5.02.js",
+      "sha256": "65a62d6d57c173d7770572d72a748450344f6599963e72167f9fb0065617dad8",
+      "size": 15728
+    },
+    {
+      "path": "vendor/ps5/offsets/5.10.js",
+      "sha256": "1101a32c43e51aedd6b0cbea34325dcb7201e1d555fde72625cb10609bb9c9a6",
+      "size": 15728
+    },
+    {
+      "path": "vendor/ps5/offsets/5.50.js",
+      "sha256": "d41b212730bb0049620019a3cd525c16ea35edf20efcd1f9e117c2e5d3ff51de",
+      "size": 15693
+    },
+    {
+      "path": "vendor/ps5/payload_map.js",
+      "sha256": "05c4e64f2f153f5b80951261099da1db296fa15f8318d05fee7703f2ec001b10",
+      "size": 968
+    },
+    {
+      "path": "vendor/ps5/payloads/elfldr-ps5.elf",
+      "sha256": "cc67181843afc56b33421468d4c3610942f150c6bebf0107c663c36918b63af0",
+      "size": 380616
+    },
+    {
+      "path": "vendor/ps5/payloads/etaHEN-2.4B.bin",
+      "sha256": "93d524497f1653841a9414e059fd0bdc80fbcc97ccd3724c3b3b73d8e34b9b9f",
+      "size": 4605992
+    },
+    {
+      "path": "vendor/ps5/payloads/etaHEN-2.5B.bin",
+      "sha256": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e",
+      "size": 4678728
+    },
+    {
+      "path": "vendor/ps5/psfree/alert.js",
+      "sha256": "a672ee57980a5b818470bb8a9e2996dbc5783a269c8477cb777c344ba6929df1",
+      "size": 1783
+    },
+    {
+      "path": "vendor/ps5/psfree/config.js",
+      "sha256": "5aa7924f6b80199ac968e50bcfb05717aae449c7ead433a89a08907ff251864c",
+      "size": 2188
+    },
+    {
+      "path": "vendor/ps5/psfree/COPYING",
+      "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+      "size": 34523
+    },
+    {
+      "path": "vendor/ps5/psfree/module/chain.js",
+      "sha256": "54a4ee8e48b3ccbb665dbc3f6cc0a5b210475f3ac517b30701e5b273e97e63c3",
+      "size": 6282
+    },
+    {
+      "path": "vendor/ps5/psfree/module/int64.js",
+      "sha256": "10d6e98f5873b63c5ec68b0f547009807d671d3034e144a00714622a17dbc0ca",
+      "size": 3655
+    },
+    {
+      "path": "vendor/ps5/psfree/module/mem.js",
+      "sha256": "1027b0d394bd1c37359c71b71411d64173b00ec93b8ce92ddbd2186864a7278b",
+      "size": 9929
+    },
+    {
+      "path": "vendor/ps5/psfree/module/memtools.js",
+      "sha256": "1adba0f4fd43fdd18a547d280f2b00351f6999fb0e095638869e37f8268f9829",
+      "size": 12877
+    },
+    {
+      "path": "vendor/ps5/psfree/module/offset.js",
+      "sha256": "8017cab2a1c615d25385f2cb73de1326023bdb85b86f6be3cb5ca138f78ed030",
+      "size": 1801
+    },
+    {
+      "path": "vendor/ps5/psfree/module/rw.js",
+      "sha256": "9b67be68e5859df0ebc0651b842290359d5b9c1d6bc1fe0bab538656f94e9c1b",
+      "size": 4224
+    },
+    {
+      "path": "vendor/ps5/psfree/module/utils.js",
+      "sha256": "788542d66f73a91e0d7cf1cc822347b101085d3c867bb1752c44ceadb57e2021",
+      "size": 2764
+    },
+    {
+      "path": "vendor/ps5/psfree/psfree.js",
+      "sha256": "7837918b61f0a6b55b77a8dc2b26a9625f7e3836cc6bf13a39d2bde0e94c344a",
+      "size": 30336
+    },
+    {
+      "path": "vendor/ps5/rop.js",
+      "sha256": "b87e68327f795a8dea6535c996cbb80c46784d8d233c2d440e3a2a261331b751",
+      "size": 28758
+    },
+    {
+      "path": "vendor/ps5/rop_slave.js",
+      "sha256": "a0bd7b7433762b7ce56a62c7109fa3bbb9077e2b90954f9ab25d9bf04b5dbc47",
+      "size": 89
+    },
+    {
+      "path": "vendor/ps5/send_payload.ps1",
+      "sha256": "826ebe7987df9dbc34be8a3a1bbac4cf4241315d7fc52b6b2af6918032f91728",
+      "size": 3179
+    },
+    {
+      "path": "vendor/ps5/syscalls.js",
+      "sha256": "c9c8f8522e8faff8f4d08b93349e714fd1b2f2f85e0620667b1c2f3261819da4",
+      "size": 17002
+    },
+    {
+      "path": "vendor/ps5/umtx2.js",
+      "sha256": "891244d37d3f3e25923d028d5a1b0bef7f1f80d282df598c9fe749c4b5e06d5c",
+      "size": 54649
+    },
+    {
+      "path": "vendor/ps5/UPSTREAM-README.md",
+      "sha256": "b2025d16a717054e40769a2be0e957314b6c2724a5d95f7331595488a619064a",
+      "size": 1240
+    },
+    {
+      "path": "vendor/ps5-relapse/index.html",
+      "sha256": "38d4742f29baf127f5348fad821ca175a595683c23dcb0cd8781fe3bcfa55cb7",
+      "size": 571
+    },
+    {
+      "path": "vendor/ps5-relapse/LICENSE",
+      "sha256": "a2960b6c24c7a79797d086709e0106a857226d2de804ce3cdabc1bc57bc733fe",
+      "size": 1090
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/10.00.js",
+      "sha256": "e105c59f08648d564274280b28a40233a5a05fffd35c8d044fb234994db20dcc",
+      "size": 11802
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/10.01.js",
+      "sha256": "120653128fcc6ef3fb4898b2f67f43c47e297f0ff8d4bd36961e6a353af58781",
+      "size": 11800
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/10.20.js",
+      "sha256": "2c4e88c3ed885a7a67fd4a85a7939c3f9f9729b437a00f5039e57285f06871d6",
+      "size": 11800
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/10.40.js",
+      "sha256": "a35d024edb3054e076a98648c83125d680c526d5e6090262c5b6530e47cbda76",
+      "size": 11800
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/10.60.js",
+      "sha256": "430d876b1eebbf78f8b61460f9bf9f9ea3031f9033496f628c59b31c2ebf8f72",
+      "size": 11749
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/11.00.js",
+      "sha256": "0587c8dae7d143c3bd2318c70b4f71565351b7aa73739f30688a9044db566411",
+      "size": 11800
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/11.20.js",
+      "sha256": "17d93f8f039f791b3ba3cf2237ee9db2a4beca0113b33a08dd62dc974bae5fa2",
+      "size": 11800
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/11.60.js",
+      "sha256": "0b4d2327637608cb72b03673292cfe6d148141546cd907c1c453a1dc2c1c30b7",
+      "size": 12447
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/12.00.js",
+      "sha256": "d64030b6840959c5bc2d8d1e0d103daf411bd2c65efc6388e8b198cc12c45196",
+      "size": 13266
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/12.02.js",
+      "sha256": "9fb945e50ca7f0ba5b9662cd4e699bcb7d8bea65ff3d20030f4a33bd39d8c7ca",
+      "size": 12779
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/12.20.js",
+      "sha256": "30b392a9d6c771f5160514e8e216ea1bc220d3ea9657a7219080c8f4516b19f3",
+      "size": 12775
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/12.40.js",
+      "sha256": "85265dbdc14e2cce0ec1e4942aeedfa1ea75f6914e083f6fdd90f3cc98256a35",
+      "size": 12779
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/12.60.js",
+      "sha256": "0d1febe73e7e6815c32d6a925c50456f4f6d1e4b807bfe4edc05a6fd72befa79",
+      "size": 12779
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/12.70.js",
+      "sha256": "c3a8e4153dffb1ed7d90c50806020d15ed59478616743ee4a215d769e364b99d",
+      "size": 12641
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/13.00.js",
+      "sha256": "b9fdf13dab0dbe06e1d0298b5bd918bd29def9c3996270c34ea530b12f918fca",
+      "size": 11939
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/13.20.js",
+      "sha256": "fa74e7b9765d35f65e488cb49be98a0fd8a7b72cb42bde7150416724d9028c32",
+      "size": 11375
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/13.40.js",
+      "sha256": "ea593405ffb16025fda6ae1f7073b5262ded12bf6fd9fe9bfc92a484ce033289",
+      "size": 11375
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/13.42.js",
+      "sha256": "5def74f8ddd06df80119b20542c6824ffa9f8bd168acbc53abec3874e3f2a697",
+      "size": 11375
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/13.60.js",
+      "sha256": "4ad371c68885efbbb3f39075203a4e7d9514aa1722c3872bc145432a48237e7e",
+      "size": 11813
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/7.00.js",
+      "sha256": "b6bcdbfbac93703e3075067ef83283e2ef34bd6d43c4ef7ae2c5ee10b31d8f38",
+      "size": 11719
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/7.01.js",
+      "sha256": "0721dfd83d4a6ae561cf6f7aaf181e46ff4357992430707e8a17aebf72874938",
+      "size": 11719
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/7.20.js",
+      "sha256": "ae5eef9ea31db30e2c4794151fc1acf6c7e20a71ea71a95db1742166f6487bb0",
+      "size": 11740
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/7.40.js",
+      "sha256": "7be02334c469350b312fb72d0817485a6f6eb56ff1828ae0d47aa0865ef1620a",
+      "size": 11740
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/7.60.js",
+      "sha256": "ead075a076798ea9ee44af513c616e554076f38656469e02f087fdbd1721c9b0",
+      "size": 11740
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/7.61.js",
+      "sha256": "21224e505a5820e0bbe1f948ecdd1026e3025ebba6fad3eab031dd08c7754672",
+      "size": 11740
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/8.00.js",
+      "sha256": "c11f7fe9b98ea14cc529010cb2b8e0e0d8062f90300d7c66ba6e10566d65a829",
+      "size": 11761
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/8.20.js",
+      "sha256": "e399bb80bf5fbf3b3399df48260dc750d721eb3be6ef5e881735fe7e38204f6e",
+      "size": 11761
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/8.40.js",
+      "sha256": "2dbe9af41a7c8ed5ee10f967c925e04bff75dc0a33e83a74c267a3ce74db2548",
+      "size": 11761
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/8.60.js",
+      "sha256": "4d5b87f50e09168c5fc42238e1557d34203c31c8d1a27dcbb7673701918f1d6e",
+      "size": 11761
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/9.00.js",
+      "sha256": "547846352913baf83372752296ffd19ae88600fd1269ce9c5249fde5f0528e78",
+      "size": 11799
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/9.20.js",
+      "sha256": "a1e2c86dd4b27062cc15f75d13460df996e5673486fdc1724da4a23f250e2a5d",
+      "size": 11799
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/9.40.js",
+      "sha256": "00c7502f9576d5799876e0d901ef4951f9730861073de1876b7713aa39c2b85c",
+      "size": 11799
+    },
+    {
+      "path": "vendor/ps5-relapse/offsets/9.60.js",
+      "sha256": "8ee9e3b95d9b12cb95ba5ffdce0fac6807f198ebc25421ef98b7a7781bd7f36e",
+      "size": 11799
+    },
+    {
+      "path": "vendor/ps5-relapse/payloads/elfldr-ps5-1360.elf",
+      "sha256": "de5dd480d12637527ba2d75e35de851adbb59c455293fa32588c492ef6b44b81",
+      "size": 397024
+    },
+    {
+      "path": "vendor/ps5-relapse/payloads/kexp_2026_05_25.bin",
+      "sha256": "7cfb3a8cb86db67893c360ae3531f460f800e9f24039797038e6e81fc50f18a9",
+      "size": 18912
+    },
+    {
+      "path": "vendor/ps5-relapse/README.md",
+      "sha256": "43967f12f3f04217f09f5da8730d95ecc1a0180bbc40c3a35d0353e9da8cfb6d",
+      "size": 1350
+    },
+    {
+      "path": "vendor/ps5-relapse/src/firmware.js",
+      "sha256": "8340bcb4ae5f3f5fd2cc15ce2b9ee70710493cfca12f3f351d913ee3a6372bc3",
+      "size": 948
+    },
+    {
+      "path": "vendor/ps5-relapse/src/kexp.js",
+      "sha256": "a0c1b03c7965fa2a0016b090d93630251c2f46dadbf1c52abffbac2d87acfb29",
+      "size": 10694
+    },
+    {
+      "path": "vendor/ps5-relapse/src/main.js",
+      "sha256": "c17fcd56f5b79bf6ae2dfc167e6eec942249dd4e2e7433a2f06681995e9ad136",
+      "size": 9067
+    },
+    {
+      "path": "vendor/ps5-relapse/src/relapse_exploit.js",
+      "sha256": "dbefa42a24995aaa664581be7b7c86fea22a18752531f70493b864f4bb31c396",
+      "size": 41655
+    },
+    {
+      "path": "vendor/ps5-relapse/src/rop.js",
+      "sha256": "43837ba8a7c951b01546cf1284444a5a195f8365710ab47c31ba2e4394858ab2",
+      "size": 3516
+    },
+    {
+      "path": "vendor/ps5-relapse/src/site.js",
+      "sha256": "92feab53c940e2eab8b201913ec129517500227990f608b1a930150434d75f29",
+      "size": 2312
+    },
+    {
+      "path": "vendor/ps5-relapse/src/utils/int64.js",
+      "sha256": "f00b4b6e0298514c07f6be8e735708f52f95fd58d28e661e46ead4b00122fa4c",
+      "size": 1423
+    },
+    {
+      "path": "vendor/ps5-relapse/src/utils/mem.js",
+      "sha256": "f8917832c8e41b8f74115c377adee1bd0c7940f5f18b4bdb47642f6aea006ce0",
+      "size": 5073
+    },
+    {
+      "path": "vendor/ps5-relapse/src/utils/rop_slave.js",
+      "sha256": "a0bd7b7433762b7ce56a62c7109fa3bbb9077e2b90954f9ab25d9bf04b5dbc47",
+      "size": 89
+    },
+    {
+      "path": "vendor/ps5-relapse/src/utils/syscalls.js",
+      "sha256": "01fb8c9d0fd721783a4b263f2e4e7841dda4c4b74daa029d844355888f344164",
+      "size": 16994
+    },
+    {
+      "path": "vendor/ps5-relapse/src/webkit.js",
+      "sha256": "c70798ac4c24dbdfb695c5b09a6f235d8a3e710ce491181620850b1172780da9",
+      "size": 21694
+    },
+    {
+      "path": "vendor/sources/etahen-2.4B-0fe0407b3a6a.zip",
+      "sha256": "11afd12eed4d1a6ab0a946da92e22c3d1f9cc52f44ddd595a81a12a70235a6de",
+      "size": 42232343
+    },
+    {
+      "path": "vendor/sources/etahen-dafa13b562dd.zip",
+      "sha256": "ee095da6b1829b80083d3bcb8cbd9ea5c98812173faf4c316292b05d8bb68b5f",
+      "size": 46808334
+    },
+    {
+      "path": "vendor/sources/gamerhack-5bc701d62633.zip",
+      "sha256": "eecb037b39d064feca6fd08543e91c49b91a90cb3a1197f9782a415676e3cc4c",
+      "size": 16009514
+    },
+    {
+      "path": "vendor/sources/ps3hen-6c529455261d.zip",
+      "sha256": "3e548bb6156d00d166a397aac91b6cfa94765bf07f87db207d5edc3254f3bf71",
+      "size": 8884520
+    },
+    {
+      "path": "vendor/sources/relapse-dd8e4e0914c5.zip",
+      "sha256": "015b3d135461075a63f50986e7e8d9713d34f2b52999fb1e276437fa74bbad29",
+      "size": 259990
+    },
+    {
+      "path": "vendor/sources/umtx2-a080beb74d9e.zip",
+      "sha256": "2c978268685c2fbc823b50cc1011646a24089238228afecad6d1413546c8a81b",
+      "size": 7028523
+    }
+  ]
+}

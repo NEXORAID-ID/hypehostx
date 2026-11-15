@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 170" role="img">
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="0.9" y2="1">
+      <stop stop-color="#656772"/>
+      <stop offset=".35" stop-color="#30313a"/>
+      <stop offset=".72" stop-color="#17181e"/>
+      <stop offset="1" stop-color="#08090d"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#353741"/>
+      <stop offset=".55" stop-color="#17181e"/>
+      <stop offset="1" stop-color="#08090c"/>
+    </linearGradient>
+    <radialGradient id="gloss" cx=".28" cy=".1" r=".9">
+      <stop stop-color="#fff" stop-opacity=".28"/>
+      <stop offset=".4" stop-color="#fff" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-.2" y="-.4" width="1.4" height="1.8">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+  <path d="M37 139h226" stroke="#586168" stroke-opacity=".35"/>
+  <ellipse cx="151" cy="139" rx="100" ry="9" fill="#000" opacity=".6" filter="url(#shadow)"/>
+  <path d="M54 113 68 59q5-17 23-19l122-8q18-1 27 12l18 57-18 25-157 11q-18 1-27-10z" fill="#08090d" stroke="#656875"/>
+  <path d="m60 107 13-47q4-12 17-14l120-8q13-1 20 9l17 48-15 17-153 12q-13 1-19-7z" fill="url(#shell)"/>
+  <path d="m63 105 13-45q4-10 15-12l119-8q11-1 17 8l16 44-10 11-153 12q-11 0-17-10z" fill="url(#gloss)"/>
+  <path d="m74 112 157-12-5 8-149 12q-5 0-8-4z" fill="url(#face)"/>
+  <path d="m91 116 125-10" stroke="#07080b" stroke-width="4" stroke-linecap="round"/>
+  <path d="m99 121 105-9" stroke="#646773" stroke-opacity=".35"/>
+  <circle cx="224" cy="113" r="3" fill="#ff4764"/>
+  <circle cx="224" cy="113" r="7" fill="#ff4764" opacity=".14"/>
+  <path d="M25 29h25M25 29v15M275 141h-25M275 141v-15" fill="none" stroke="#ff3f5e" stroke-width="1.5"/>
+  <path d="M40 151h17m186 0h17" stroke="#4b5a60" stroke-opacity=".6"/>
+</svg>
