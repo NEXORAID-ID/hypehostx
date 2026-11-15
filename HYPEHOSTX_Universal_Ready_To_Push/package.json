@@ -1,0 +1,13 @@
+{
+  "name": "hypehostx-universal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Original universal PlayStation homebrew reference and navigation website",
+  "scripts": {
+    "build": "python scripts/build.py",
+    "test": "python tests/check.py && node tests/unit.js",
+    "test:browser": "python tests/browser.py",
+    "preview": "python -m http.server 8080 --directory dist"
+  },
+  "engines": {"node": ">=20"}
+}

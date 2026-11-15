@@ -1,0 +1,26 @@
+
+> hypehostx@0.1.0-dev test:native:asan
+> node tools/native.cjs --asan
+
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe -S native -B native/build-asan -DHYPE_SANITIZE=ON
+-- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26300.
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: F:/hypehostx/native/build-asan
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe --build native/build-asan --config RelWithDebInfo
+MSBuild version 18.5.4+cb4e32d21 for .NET Framework
+
+  hypecore.vcxproj -> F:\hypehostx\native\build-asan\RelWithDebInfo\hypecore.lib
+  hypehen.vcxproj -> F:\hypehostx\native\build-asan\RelWithDebInfo\hypehen.exe
+  hypekit_sample.vcxproj -> F:\hypehostx\native\build-asan\RelWithDebInfo\hypekit_sample.exe
+  native_tests.vcxproj -> F:\hypehostx\native\build-asan\RelWithDebInfo\native_tests.exe
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/ctest.exe --test-dir native/build-asan -C RelWithDebInfo --output-on-failure --timeout 30
+Test project F:/hypehostx/native/build-asan
+    Start 1: portable_domain
+1/2 Test #1: portable_domain ..................   Passed    0.05 sec
+    Start 2: extension_sample
+2/2 Test #2: extension_sample .................   Passed    0.03 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   0.08 sec

@@ -1,0 +1,23 @@
+HYPEHOSTX local contract and backend configuration checks
+Date: 2026-11-15
+Scope: NET-01 / NET-02; local configuration only
+
+Command: node --env-file=.env.example -e "const url = new URL(process.env.DATABASE_URL); if (process.env.POSTGRES_PASSWORD !== 'replace-with-a-private-local-password' || url.hostname !== '127.0.0.1' || url.port !== '5432' || url.pathname !== '/hypenet' || !process.env.ALLOWED_ORIGINS) process.exit(1); console.log('env template parses and matches local Compose target');"
+Result: PASS, exit 0. Node loaded the example values; URL host, port, database, and POSTGRES_PASSWORD placeholder matched the local Compose configuration.
+
+Command: npm run build:backend
+Result: PASS, exit 0.
+
+Command: npm run test:network
+Result: PASS, exit 0. 2 tests passed, 0 failed.
+
+Command: npm test
+Result: PASS, exit 0. 10 tests passed, 0 failed. Existing AJV strictTypes diagnostics about `evidenceIds` were printed.
+
+Command: npm run validate
+Result: PASS, exit 0. ES5 parsing, locale parity, compatibility validation, and link-only catalog policy passed. Existing AJV strictTypes diagnostic about `evidenceIds` was printed.
+
+Command: npm run contracts
+Result: PASS, exit 0. OpenAPI generation reported 37 routes.
+
+Docker/Compose integration: NOT RUN. Docker is unavailable in this environment. No PostgreSQL container startup or health check is claimed.

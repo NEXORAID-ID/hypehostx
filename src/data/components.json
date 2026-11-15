@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "components": [
+    {
+      "id": "goldhen-docs",
+      "name": "GoldHEN",
+      "sourceUrl": "https://github.com/GoldHEN/GoldHEN",
+      "distributionStatus": "link-only",
+      "rightsStatus": "owner_reported_scope_unverified"
+    },
+    {
+      "id": "openorbis-docs",
+      "name": "OpenOrbis PS4 Toolchain",
+      "sourceUrl": "https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain",
+      "distributionStatus": "link-only",
+      "rightsStatus": "review_required"
+    },
+    {
+      "id": "mira-docs",
+      "name": "Mira Project",
+      "sourceUrl": "https://github.com/OpenOrbis/mira-project",
+      "distributionStatus": "link-only",
+      "rightsStatus": "review_required"
+    }
+  ]
+}

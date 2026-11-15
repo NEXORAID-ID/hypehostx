@@ -1,0 +1,2 @@
+const {test}=require('node:test'),assert=require('node:assert/strict'),Ajv=require('ajv'),schema=require('../packages/contracts/compatibility.schema.json'),catalog=require('../src/data/compatibility.json');
+test('HX-007 versioned strict schema rejects extra fields and false verification',()=>{const validate=new Ajv().compile(schema);assert(validate(catalog));assert(!validate({...catalog,executable:'https://invalid/execute.js'}));assert(!validate({...catalog,schemaVersion:2}));assert(!validate({...catalog,records:[{firmware:'9.00',status:'verified',evidenceIds:[]}]}));});

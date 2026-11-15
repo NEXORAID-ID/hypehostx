@@ -1,0 +1,92 @@
+[
+  {
+    "path": "AGENTS.md",
+    "bytes": 5825,
+    "sha256": "68048293b9c13e4218924b129bd325f0f54f61d75ed31c4e51241e22eccd81fa",
+    "read": true
+  },
+  {
+    "path": "BACKLOG.md",
+    "bytes": 12975,
+    "sha256": "22262f0178a30e98a1a0fd5262ccf5544f5cb61b5b6387e8a09a5b1234fccdaa",
+    "read": true
+  },
+  {
+    "path": "CODEX_START.md",
+    "bytes": 5417,
+    "sha256": "26333c44ca35212bc9c42deb8eb55ef0f9fb0a39975a660bb8f36afb6c3a80f1",
+    "read": true
+  },
+  {
+    "path": "END_TO_END.md",
+    "bytes": 7942,
+    "sha256": "093674e88cc77c9c413fcb22b503691febb42454d586d1b9d405083448e02809",
+    "read": true
+  },
+  {
+    "path": "EVIDENCE_TEMPLATES.md",
+    "bytes": 2962,
+    "sha256": "d71b5115cf1572196ee9e9d68e78ad5618f76945f98dc653c4f12424b4e90f6c",
+    "read": true
+  },
+  {
+    "path": "INDEPENDENT_SPEC.md",
+    "bytes": 7933,
+    "sha256": "d4ea06b3cfc80e0bc3c6e56911b6b31478f0833f6975898ba46d944380823800",
+    "read": true
+  },
+  {
+    "path": "MASTER_SPEC.md",
+    "bytes": 42139,
+    "sha256": "6142932e0895f4903e5d48a0f7ebfa2edbdfe10ffbd69c2df205699a19383694",
+    "read": true
+  },
+  {
+    "path": "NATIVE_SPEC.md",
+    "bytes": 6386,
+    "sha256": "f84a543ba04d5112b4e942f1acfbbe4e0e7b9b7ce3ca26ec65e7c1c82ac4020c",
+    "read": true
+  },
+  {
+    "path": "ONLINE_SPEC.md",
+    "bytes": 14029,
+    "sha256": "b974feeef67f4e8bb08134415f6ddc8bb9948119f9c3eed3ec03319c3d7d0b66",
+    "read": true
+  },
+  {
+    "path": "QA_MATRIX.md",
+    "bytes": 17664,
+    "sha256": "9deb4512ab1651f47267908f091db2eba889ba2c7f1d0d86570d96cbcd2ef49b",
+    "read": true
+  },
+  {
+    "path": "README.md",
+    "bytes": 2270,
+    "sha256": "2f7cef87a6983181fba4872f14f0fa20c10c11867111e322a69567c6732ce6a0",
+    "read": true
+  },
+  {
+    "path": "RELEASE_GATE.md",
+    "bytes": 5994,
+    "sha256": "bfe27f86fd334408f015514a71233a7f67237a731b9090d495a5e70d87a74472",
+    "read": true
+  },
+  {
+    "path": "RIGHTS_LEDGER.md",
+    "bytes": 2480,
+    "sha256": "9756a0e59dbc711b9c4390d4dc6585ec189cf3aafa850bdaaa041714d603e9c5",
+    "read": true
+  },
+  {
+    "path": "source-inventory.json",
+    "bytes": 2085,
+    "sha256": "f348b9853538e7bd7167a39379569c03d6b6c7cfc5bf8861f8b6d590b9c2755c",
+    "read": true
+  },
+  {
+    "path": "UPSTREAM_CATALOG.md",
+    "bytes": 5631,
+    "sha256": "1ad19b71400224586d1ce0fdb441c59f15ce4e6fe2ab9aebd3e1b3a185eb0745",
+    "read": true
+  }
+]

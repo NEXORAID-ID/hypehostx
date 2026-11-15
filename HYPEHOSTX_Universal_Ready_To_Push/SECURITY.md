@@ -1,0 +1,2 @@
+# Security reporting
+Report suspected issues privately to the repository maintainers through an available GitHub private vulnerability reporting channel. Do not include credentials, private console identifiers or exploit code in public issue reports. No account service is operated by this site. No third-party executing code is included. Security review is limited to static and fixture validation; real browser and hardware testing remain outstanding.

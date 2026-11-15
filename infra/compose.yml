@@ -1,0 +1,18 @@
+services:
+  db:
+    image: postgres:17.6-alpine
+    environment:
+      POSTGRES_USER: hypehostx
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set a private local database password}
+      POSTGRES_DB: hypenet
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - hypenet-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hypehostx -d hypenet"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+volumes:
+  hypenet-db:

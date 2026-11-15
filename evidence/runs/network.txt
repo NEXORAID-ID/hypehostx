@@ -1,0 +1,14 @@
+
+> hypehostx@0.1.0-dev test:network
+> tsx --test backend/tests/*.ts
+
+✔ HYPENET PostgreSQL engine API and two real WebSocket clients (2244.3359ms)
+✔ rate limits, disabled mail, invalid JSON and actual PostgreSQL backup restore (2385.6584ms)
+ℹ tests 2
+ℹ suites 0
+ℹ pass 2
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2825.0229

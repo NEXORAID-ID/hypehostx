@@ -1,0 +1,1 @@
+PASS: 18 application assertions (DOM fixture; not real browser).

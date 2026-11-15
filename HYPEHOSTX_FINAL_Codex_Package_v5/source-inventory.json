@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "reviewDate": "2026-11-15",
+  "status": "repository_level_review_only",
+  "components": [
+    {
+      "id": "gamerhack",
+      "name": "GamerHack host",
+      "sourceUrl": "https://github.com/GamerHack/GamerHack.github.io",
+      "status": "reference_only",
+      "revision": null,
+      "files": [],
+      "distributionApproved": false,
+      "hardwareVerified": false
+    },
+    {
+      "id": "goldhen",
+      "name": "GoldHEN",
+      "sourceUrl": "https://github.com/GoldHEN/GoldHEN",
+      "status": "owner_reported_permission_scope_unverified",
+      "revision": null,
+      "files": [],
+      "distributionApproved": false,
+      "hardwareVerified": false
+    },
+    {
+      "id": "sdk",
+      "name": "GoldHEN Plugin SDK",
+      "sourceUrl": "https://github.com/GoldHEN/GoldHEN_Plugins_SDK",
+      "status": "license_review_required",
+      "revision": null,
+      "files": [],
+      "distributionApproved": false,
+      "hardwareVerified": false
+    },
+    {
+      "id": "openorbis",
+      "name": "OpenOrbis PS4 Toolchain",
+      "sourceUrl": "https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain",
+      "status": "license_review_required",
+      "revision": null,
+      "files": [],
+      "distributionApproved": false,
+      "hardwareVerified": false
+    },
+    {
+      "id": "mira",
+      "name": "Mira Project",
+      "sourceUrl": "https://github.com/OpenOrbis/mira-project",
+      "status": "reference_only_license_review_required",
+      "revision": null,
+      "files": [],
+      "distributionApproved": false,
+      "hardwareVerified": false
+    },
+    {
+      "id": "mira-archive",
+      "name": "Mira Project Archive",
+      "sourceUrl": "https://github.com/OpenOrbis/mira-project-archive",
+      "status": "reference_only_license_review_required",
+      "revision": null,
+      "files": [],
+      "distributionApproved": false,
+      "hardwareVerified": false
+    }
+  ],
+  "ownerStatement": {
+    "permission": "owner_reported_scope_unverified",
+    "discordMembership": "owner_reported",
+    "privateGoldHENSource": "not_received"
+  }
+}

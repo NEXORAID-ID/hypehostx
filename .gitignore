@@ -1,0 +1,10 @@
+node_modules/
+dist/
+artifacts/
+.tools/
+.env
+*.log
+native/build/
+native/build-asan/
+hypehen-app-data/
+backend/data/

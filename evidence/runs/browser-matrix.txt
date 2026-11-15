@@ -1,0 +1,11 @@
+HYPEHOSTX browser matrix checks
+Date: 2026-11-15
+Scope: automated desktop browser tests only; not PS4 certification
+
+Command: npm run test:browser
+Result: PASS, exit 0. Chromium 159.0.8154.6 completed all 15 routes, manual firmware selection, locale persistence, service worker preparation, offline reload/navigation, mobile-width overflow check, and no-page-exception assertion.
+
+Command: npm run test:browser:webkit
+Result: PASS, exit 0. Playwright WebKit 27.2 completed the same eight assertions.
+
+Both runs used 1440x1000 and 390x844 viewports. No test errors were recorded. Desktop Playwright WebKit is not the PS4 browser build; exact console model/firmware, controller behavior, legacy API behavior, and hardware offline tests remain unverified.

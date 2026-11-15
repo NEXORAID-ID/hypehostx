@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "engine": "webkit",
+  "browser": "27.2",
+  "checks": [
+    "T003 missing required script fallback",
+    "T041 T069 absent cache APIs",
+    "T050 denied localStorage keeps session settings",
+    "T005 T007 invalid route and browser back",
+    "T011 T053 confirmed scoped reset and focus restoration",
+    "HX-029 documentation favorites persist and empty filters",
+    "T032 service-worker refuses tampered shell assets"
+  ]
+}

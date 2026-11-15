@@ -1,0 +1,5 @@
+
+> hypehostx@0.1.0-dev test:web-negative:webkit
+> node tests/web-negative.cjs webkit
+
+PASS webkit 7 browser denial/recovery scenarios

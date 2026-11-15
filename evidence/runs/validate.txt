@@ -1,0 +1,5 @@
+
+> hypehostx@0.1.0-dev validate
+> node tools/validate.cjs
+
+PASS ES5 parsing, locale parity, compatibility validation, link-only catalog policy
